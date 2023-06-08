@@ -129,7 +129,7 @@ a,
     transform: translate(-50%, -50%);
     position: absolute;
     left: 50%;
-    top: 50%
+    top: 50%;
 }
 
 .center-y {
@@ -137,7 +137,7 @@ a,
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     position: absolute;
-    top: 50%
+    top: 50%;
 }
 
 .center-x {
@@ -225,7 +225,7 @@ input:-webkit-autofill {
     outline: none;
     border: none;
     padding: 0;
-    margin: 0
+    margin: 0;
 }
 
 *,
@@ -233,7 +233,7 @@ input:-webkit-autofill {
 *:after {
     -o-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    box-sizing: border-box
+    box-sizing: border-box;
 }
 
 html,
@@ -255,7 +255,7 @@ body {
     position: relative;
     margin-top: -2px;
     height: 20px;
-    width: 20px
+    width: 20px;
 }
 
 img {
@@ -820,11 +820,11 @@ button {
 }
 
 .button.list {
-    border-radius: 20px;
+    border-radius: 10px;
     -webkit-box-shadow: 0 20px 30px -10px rgba(34, 34, 34, 0.2);
     box-shadow: 0 20px 30px -10px rgba(34, 34, 34, 0.2);
-    background: -webkit-linear-gradient(left, #fed8f7, #c4ddfe);
-    color: #222
+    background: transparent;
+    color: #000;
 }
 
 .button.list:before {
@@ -955,7 +955,7 @@ button {
     width: 100%
 }
 .hero1 {
-    margin-top: 100px; padding-top: 50px;
+    margin-top: 150px; padding-top: 50px;
     padding: 0px 0 0px;
     position: fixed;
     top:0;
@@ -1039,7 +1039,6 @@ button {
 .container {
   padding: 20px;
 }
-
 
 
 .hero .button {

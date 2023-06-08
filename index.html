@@ -11744,6 +11744,22 @@ div.jsx-3902793935 {
 		padding: 0 0 40px;
 	}
 }
+.button-list {
+			z-index: 999; /* Adjust the value as needed */
+			position: fixed;
+			  top: 0;
+  left: 0;
+  right: 0;
+			max-height: 15%;
+			max-width: 100%;
+				  display: flex;
+      flex-direction: row;
+   } 
+   .button-list button {
+	z-index: 999; /* Adjust the value as needed */
+	flex: 1;
+	width: 33.33%; /* Set equal width for each button */
+}
 
 </style>
   </head>
@@ -11757,6 +11773,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <button type="button" class="modal-close modal-toggle"><i class="icon" data-feather="x"></i><span class="hide-mobile">ESC</span></button>
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0ornCC6KJOSsx12Kt1N6A3EhVWZSZIlFjj9FQvuBCrqNnnw/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div> -->
+							  	  <header class="button-list">			<div class="button-list" id="buttons">
+			<button id="customer-support-button" class="button list"><span class="" id="button1">Customer Support</span></button>
+			<div class="empty-line1"></div>
+			<button id="customer-sales-button" class="button list"><span class="" id="button2">Customer Sales</span></button>
+			<div class="empty-line1"></div>
+			<button id="employee-satisfaction-button" class="button list"><span class="" id="button3">Employee Satisfaction</span></button>
+		</div></header>
 <style>
   .title {
       font-size: 70px;
@@ -11778,6 +11801,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       margin: 0 auto;
       text-align: center;
     }
+	.hero .h2{
+		font-size: 16px;
+	}
   }
 </style>
 <div class="content" style="background-color: black;    overflow-x: hidden;">   
@@ -11788,15 +11814,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ">resolved.</span>
 <br>Through <span id="rain3" style="font-size: 70px;             font-weight: 1000;">Blozum.</span>
 </h2>
-						
 	<div class="hero1" id="hero1">
 		      <div class="jsx-1131416367">
-         <div class="jsx-1131416367 hero-vertical__inner">
-            <div class="jsx-1131416367 hero-vertical__media hero-vertical__media--full-width hidden">
-                <picture class="jsx-4134729888">
-					<img src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 1240 815&quot;%3E%3C/svg%3E" alt="" class="jsx-4134729888 image-placeholder image-placeholder--desktop"/></picture>
-            </div>
-         </div>
 		 <div id="gradient" class="jsx-1131416367 hero-vertical__background-media hidden">
             <picture class="jsx-1193301133 image">
                <source type="image/webp" srcSet="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg?fm=webp" class="jsx-1193301133"/>
@@ -11805,15 +11824,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <noscript class="jsx-1193301133 image"><img alt="" src="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg" class="jsx-1193301133 "/></noscript>
          </div>
       </div>
-	  <div class="wrapper" id="wrapper">
-			<div class="button-list hidden" id="buttons">
-				<br><br><br>
-			<button id="customer-support-button" class="button list"><span class="" id="button1">Customer Support</span></button>
-			<br><br><br>
-			<button id="customer-sales-button" class="button list"><span class="" id="button2">Customer Sales</span></button>
-			<br><br><br>
-			<button id="employee-satisfaction-button" class="button list"><span class="" id="button3">Employee Satisfaction</span></button>
-		</div>
 			<div class="chat-container hidden" id="text1">
 				<div class="chat-header hidden" id="bot-header">
 					<i class="fa-solid fa-angle-left" style="color: #0057ff;"></i> 
@@ -11821,7 +11831,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<img src="./images/favicon.ico" alt="Blozum Icon" class="profile-picture-img">
 	</div>
 	<div class="bot-info">
-		<div class="bot-name"><span class="" id="bot_name">Blozum</span>
+		<div class="bot-name" id="bot-name1"><span class="rainbow" id="bot_name">Blozum</span>
 		</div>
 		<text style="font-size:12px; "> 24X7 At your service</text>
 	</div>
@@ -11839,8 +11849,77 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 	</div>
 	</div>
+
 </div>
-</div>
+<div class="hero" id="chatbot2">
+			      <div class="jsx-1131416367">
+		 <div id="" class="jsx-1131416367 hero-vertical__background-media">
+            <picture class="jsx-1193301133 image">
+               <source type="image/webp" srcSet="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg?fm=webp" class="jsx-1193301133"/>
+               <img alt="" src="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg" class="jsx-1193301133 "/>
+            </picture>
+            <noscript class="jsx-1193301133 image"><img alt="" src="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg" class="jsx-1193301133 "/></noscript>
+         </div>
+      </div>
+			<div class="chat-container" id="">
+				<div class="chat-header" id="">
+					<i class="fa-solid fa-angle-left" style="color: #0057ff;"></i> 
+	<div class="profile-picture">
+		<img src="./images/favicon.ico" alt="Blozum Icon" class="profile-picture-img">
+	</div>
+	<div class="bot-info">
+		<div class="bot-name" id="bot-name2"><span class="rainbow12" id="bot_name">Blozum</span>
+		</div>
+		<text style="font-size:12px; "> 24X7 At your service</text>
+	</div>
+	</div>
+<div class='empty-line'></div>
+		<div id="text2" class="chat-message user-message">Hi, I am looking for a birthday present for my nephew under Rs. 500. He is 12, and loves adventures.</div>
+		<div id="text3" class="chat-message support-message">That is great! Here are a few options:<div class='empty-line'></div><div class='chat-header1'><div class='profile-picture'><img src='./images/famous_five.jpeg' alt='Famous Five'></div><text style='color:#fff; font-size:16px;'>Famous Five  <b>Rs. 245/-</b></text></div> <div class='empty-line'></div><div class='chat-header1'><div class='profile-picture'><img src='./images/hardy_biys.jpeg' alt='Hardy Boys'></div><text style='color:#fff; font-size:16px;'>Hardy Boys - <b>Rs. 315/-</b></text></div><div class='empty-line'></div> <div class='chat-header1'><div class='profile-picture'><img src='./images/secret_seven.jpeg' alt='Secret Seven'></div><text style='color:#fff; font-size:16px;'>Secret Seven <b>Rs. 425/-</b></text></div></div>
+		<div id="text4" class="chat-message user-message">I want to buy Famous five.</div>
+		<div id="text5" class="chat-message support-message"><text>Sure! Here is the <span class="bold-underline">Payment link:</span></text> <a class="bold-underline" href="https://blozum.com/">https://blozum.pay/upi_412/secure_checkout</a> Please pay within the next 5 minutes to confirm your order. :)</div>
+		<div id="text6" class="chat-message user-message">This helped!😄</div>
+		<div class="user-input-container">
+		<input type="text" id="user-input" placeholder = "Type your query here." class="user-input">
+		<button id="send-button1"><i class="fa-solid fa-arrow-right-from-bracket fa-beat-fade"></i></button>
+	</div>
+	</div>
+	</div>
+
+	<div class="hero" id="chatbot3">
+			      <div class="jsx-1131416367">
+		 <div id="" class="jsx-1131416367 hero-vertical__background-media">
+            <picture class="jsx-1193301133 image">
+               <source type="image/webp" srcSet="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg?fm=webp" class="jsx-1193301133"/>
+               <img alt="" src="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg" class="jsx-1193301133 "/>
+            </picture>
+            <noscript class="jsx-1193301133 image"><img alt="" src="https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg" class="jsx-1193301133 "/></noscript>
+         </div>
+      </div>
+	<div class="chat-container" id="">
+				<div class="chat-header" id="">
+					<i class="fa-solid fa-angle-left" style="color: #0057ff;"></i> 
+	<div class="profile-picture">
+		<img src="./images/favicon.ico" alt="Blozum Icon" class="profile-picture-img">
+	</div>
+	<div class="bot-info">
+		<div class="bot-name" id="bot-name3"><span class="rainbow2" id="bot_name">Blozum</span>
+		</div>
+		<text style="font-size:12px; "> 24X7 At your service</text>
+	</div>
+	</div>
+<div class='empty-line'></div>
+		<div id="text2" class="chat-message user-message">Hi, I want to apply for a leave from 12 to 14 June.</div>
+		<div id="text3" class="chat-message support-message">Certainly! I'm here to help. Would you like to add any comments?</div>
+		<div id="text4" class="chat-message user-message">It is a casual leave.</div>
+		<div id="text5" class="chat-message support-message">Thanks, I have filed the leave of absence for you. Here is a reference to the following ticket (nmkHFKMmar13jck): <div class='empty-line'></div><img src='./images/employee_leave.png' alt='Employee_Leave'></div>
+		<div id="text6" class="chat-message user-message">This helped!😄</div>
+		<div class="user-input-container">
+		<input type="text" id="user-input" placeholder = "Type your query here." class="user-input">
+		<button id="send-button2"><i class="fa-solid fa-arrow-right-from-bracket fa-beat-fade"></i></button>
+	</div>
+	</div>
+	</div>
  <svg class="arrows">
 							<path class="a1" d="M0 0 L30 32 L60 0"></path>
 							<path class="a2" d="M0 20 L30 52 L60 20"></path>
@@ -11848,22 +11927,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</svg>
 
 	<style>
-		   .wrapper {
-      display: flex;
-	  width: 100%;
-   }
-		   .button-list {
-			margin-left: 5%;
-			height: 50%;
-			width: 15%;
-      display: flex;
-      flex-direction: column;
-   }
-
-   .button-list button {
-      margin-bottom: 10px;
-   }
-		
 		.user-input-container {
   width: 100%;
   align-items: center;
@@ -11878,7 +11941,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   border-radius: 10px;
 }
 
-#send-button {
+#send-button, #send-button1, #send-button2 {
   margin-left: 10px;
   padding: 10px 15px;
   color: #000;
@@ -11959,14 +12022,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     transform: translateY(-25%);
   }
   .chat-container {
+	z-index: 999; /* Adjust the value as needed */
 	  display: flex;
-	  overflow-y: auto; /* Enable vertical scrolling */
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-end;
-  max-width: 38%;
+  width: 38%;
   margin: 0 auto;
-  margin-left: 11%;
   background-color: #ffffff;
   border-radius: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -11981,6 +12043,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 }
 .empty-line {
   height: 5px; /* Adjust the desired height */
+}
+.empty-line1 {
+  max-height: 15%; /* Adjust the desired height */
+  width: 2px;
+  background-color: rgba(255, 255, 255, 0.2);
 }
 .user-message {
 background: -webkit-linear-gradient(left, #0babff, #0057ff);
@@ -12005,28 +12072,90 @@ margin-right: auto; /* Move to the right end */
   word-wrap: break-word;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4); /* Add shadow */
 }
+@media (max-width: 899px) {
+     .button-list button {
+	flex: 1;
+	width: 33.33%; /* Set equal width for each button */
+	font-size: 18px;
+	z-index: 999; /* Adjust the value as needed */
+}
+.chat-message .user-message{
+	font-size: 18px;
+}
+.chat-message .support-message{
+	font-size: 18px;
+}
+  .chat-container {
+	z-index: 999; /* Adjust the value as needed */
+	margin-left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+	align-items: flex-start;
+  justify-content: flex-end;
+    margin: 20px auto; /* Adjusted margin to create spacing between the button list and chat container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+	max-height: 100%;
+    width: 90%; /* Adjusted width to occupy 80% of the available space */
+  }
+  
+}
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
+	     .button-list button {
+	flex: 1;
+	width: 33.33%; /* Set equal width for each button */
+	font-size: 16px;
+	z-index: 999; /* Adjust the value as needed */
+}
+
+.chat-message .user-message{
+	font-size: 16px;
+}
+.chat-message .support-message{
+	font-size: 16px;
+}
+	.user-message {
+background: -webkit-linear-gradient(left, #0babff, #0057ff);
+  color: #fff;
+  margin-left: auto; /* Move to the right end */
+  max-width: 70%; /* Adjust the width as needed */
+  font-size: 16px;
+  align-self: flex-end; /* Align to the right */
+  border-radius: 10px;
+  padding: 9.5px;
+  word-wrap: break-word;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4); /* Add shadow */
+}
+
+.support-message {
+margin-right: auto; /* Move to the right end */
+    background: -webkit-linear-gradient(left, #fed8f7, #c4ddfe);
+  color: #000;
+  max-width: 70%; /* Adjust the width as needed */
+font-size: 16px;
+  padding: 9.5px;
+  align-self: flex-start; /* Align to the left */
+  border-radius: 10px;
+  word-wrap: break-word;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4); /* Add shadow */
+}
   .text {
     position: fixed;
     height: 50%;
     bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 5px;
-    font-size: 10px;
+    font-size: 16px;
     line-height: 0.5;
   }
 #text1, #text2, #text4, #text5, #text7, #text8 {
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.25;
-  }
-  #text1, #text2, #text3, #text4, #text5, #text6, #text7, #text8{
-    transform: translateY(40%);
   }
 
   #homepg {
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.25;
   }
 
@@ -12039,35 +12168,13 @@ margin-right: auto; /* Move to the right end */
     margin: 0;
     transform: none;
   }
-
-  .chat-message {
-    transform: translateY(40%);
-  }
 }
 
-@media screen and (min-width: 601px) {
+@media (min-width: 601px) {
   .animation {
     width: 600px;
     height: 600px;
   }
-}
-
-.hidden {
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out;
-}
-
-.visible {
-  opacity: 1;
-  transition: opacity 0.5s ease-in-out;
-}
-/* Media query for screens larger than 600px */
-@media screen and (min-width: 601px) {
-  .animation {
-    width: 600px;
-    height: 600px;
-  }
-}
   .hidden {
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
@@ -12076,6 +12183,7 @@ margin-right: auto; /* Move to the right end */
     opacity: 1;
     transition: opacity 0.5s ease-in-out;
   }
+}
 	</style>
 
 <main id="main" tabindex="-1" class="jsx-2759541137 ">
@@ -12243,7 +12351,7 @@ margin-right: auto; /* Move to the right end */
             </div>
          </div>
       </div>
-   </div> -->
+   </div> --> 
    <div class="jsx-3590430544 fin-section fin-section--features">
       <div class="jsx-311176064 heading-and-cards">
          <div data-testid="grid-container" class="jsx-3758366964 grid-container grid-layout grid-container--3-3 fin-background-color-black">
@@ -12414,18 +12522,20 @@ margin-right: auto; /* Move to the right end */
 <script src="js/scripts.min.js"></script>
 
 <script type="module">
-const arr = [ document.getElementById('rain1'), document.getElementById('rain2'), document.getElementById('rain3')];
+const arr = [ document.getElementById('rain1'), document.getElementById('rain2'), document.getElementById('rain3'), document.getElementById("button1"), document.getElementById("button2"), document.getElementById("button3")];
 let count = 0;
-
 const intervalId = setInterval(() => {
     arr[0].classList.add('rainbow');
+	button1.classList.add('rainbow');
   setTimeout(() => {
     // Code to execute after waiting for 700ms
     arr[1].classList.add('rainbow12');
+	button2.classList.add('rainbow12');
   }, 600);
   setTimeout(() => {
     // Code to execute after waiting for 700ms
     arr[2].classList.add('rainbow2');
+	button3.classList.add('rainbow2');
   }, 1200);
     count++;
   if (count >= 1) {
@@ -12440,52 +12550,32 @@ hero1.style.height = `${windowHeight * 1.5}px`;
 const hero = document.querySelector('.hero');
 hero.style.height = `${windowHeight * 1.7}px`;
 
+const chatbot2 = document.getElementById('chatbot2');
+chatbot2.style.height = `${windowHeight * 1.5}px`;
+const chatbot3 = document.getElementById('chatbot3');
+chatbot3.style.height = `${windowHeight * 1.5}px`;
+
 const upperDiv = document.querySelector('.content');
 const homepg1 = document.getElementById('homepg');
 const gradient = document.getElementById('gradient');
-const combinations = [  document.getElementById('text1'), document.getElementById('text2'), document.getElementById('text3'), document.getElementById('text4'), document.getElementById('text5'), document.getElementById('text6'),  document.getElementById('bot-header'), document.getElementById('buttons')];
+const combinations = [  document.getElementById('text1'), document.getElementById('text2'), document.getElementById('text3'), document.getElementById('text4'), document.getElementById('text5'), document.getElementById('text6'),  document.getElementById('bot-header')];
 combinations[0].style.height = 7/8 * windowHeight;
    // Function to handle button clicks
    function handleButtonClick(option) {
-      var userMessage = document.getElementById("text2");
-      var supportMessage = document.getElementById("text3");
-      var userMessage2 = document.getElementById("text4");
-      var supportMessage2 = document.getElementById("text5");
-	  var button1 = document.getElementById("button1");
-	  var button2 = document.getElementById("button2");
-	  var button3 = document.getElementById("button3");
-		var botname = document.getElementById("bot_name");
 
       switch (option) {
          case "customer-support":
-            userMessage.innerHTML = "I want to return my Tshirt? Please help me.";
-            supportMessage.innerHTML = "Sure! Could I please have your name, phone number and the item you want to return?";
-			userMessage2.innerHTML = "My name is Riri. Ph. No. 1234567890. I want to return my Zara Sunshine 2V White Tshirt which I had bought last wednesday.";
-            supportMessage2.innerHTML = "Thanks. I have scheduled your return to be picked up tomorrow. You will get an email with the tracking number <b>(TXNjskfi78209)</b>";
-			button1.classList.add('rainbow');
-			botname.classList.remove('rainbow2');
-			botname.classList.remove('rainbow12');
-			botname.classList.add('rainbow');
+		 	var targetElement = document.getElementById('hero1');
+            targetElement.scrollIntoView({ behavior: 'smooth' });
+		 	customer
             break;
          case "customer-sales":
-            userMessage.innerHTML = "Hi, I am looking for a birthday present for my nephew under Rs. 500. He is 12, and loves adventures.";
-	        supportMessage.innerHTML = "That is great! Here are a few options:<div class='empty-line'></div><div class='chat-header1'><div class='profile-picture'><img src='./images/famous_five.jpeg' alt='Famous Five'></div><text style='color:#fff; font-size:16px;'>Famous Five  <b>Rs. 245/-</b></text></div> <div class='empty-line'></div><div class='chat-header1'><div class='profile-picture'><img src='./images/hardy_biys.jpeg' alt='Hardy Boys'></div><text style='color:#fff; font-size:16px;'>Hardy Boys - <b>Rs. 315/-</b></text></div><div class='empty-line'></div> <div class='chat-header1'><div class='profile-picture'><img src='./images/secret_seven.jpeg' alt='Secret Seven'></div><text style='color:#fff; font-size:16px;'>Secret Seven <b>Rs. 425/-</b></text></div>";
-			userMessage2.innerHTML = "I want to buy Famous five.";
-			supportMessage2.innerHTML = '<text>Sure! Here is the <span class="bold-underline">Payment link:</span></text> <a class="bold-underline" href="https://blozum.com/">https://blozum.pay/upi_412/secure_checkout</a> Please pay within the next 5 minutes to confirm your order. :)';
-			button2.classList.add('rainbow12');
-			botname.classList.remove('rainbow');
-			botname.classList.remove('rainbow2');
-			botname.classList.add('rainbow12');
+		 	var targetElement = document.getElementById('chatbot2');
+            targetElement.scrollIntoView({ behavior: 'smooth' });
             break;
          case "employee-satisfaction":
-            userMessage.innerHTML = "Hi, I want to apply for a leave from 12 to 14 June.";
-            supportMessage.innerHTML = "Certainly! I'm here to help. Would you like to add any comments?";
-			userMessage2.innerHTML = "It is a casual leave.";
-            supportMessage2.innerHTML = "Thanks, I have filed the leave of absence for you. Here is a reference to the following ticket (nmkHFKMmar13jck): <div class='empty-line'></div><img src='./images/employee_leave.png' alt='Employee_Leave'>";
-			button3.classList.add('rainbow2');
-			botname.classList.remove('rainbow');
-			botname.classList.remove('rainbow12');
-			botname.classList.add('rainbow2');
+		 	var targetElement = document.getElementById('chatbot3');
+            targetElement.scrollIntoView({ behavior: 'smooth' });
 			break;
          default:
             // Handle default case or error
@@ -12508,6 +12598,24 @@ combinations[0].style.height = 7/8 * windowHeight;
    employeeSatisfactionButton.addEventListener("click", function () {
       handleButtonClick("employee-satisfaction");
    });
+
+    document.getElementById('send-button').addEventListener('click', function() {
+            // Scroll to the target element
+            var targetElement = document.querySelector('.jsx-3590430544');
+            targetElement.scrollIntoView({ behavior: 'smooth' });
+        });
+		document.getElementById('send-button1').addEventListener('click', function() {
+            // Scroll to the target element
+            var targetElement = document.querySelector('.jsx-3590430544');
+            targetElement.scrollIntoView({ behavior: 'smooth' });
+        });
+		document.getElementById('send-button2').addEventListener('click', function() {
+            // Scroll to the target element
+            var targetElement = document.querySelector('.jsx-3590430544');
+            targetElement.scrollIntoView({ behavior: 'smooth' });
+        });
+
+		
 window.addEventListener('scroll', () => {
   const scrollTop = window.scrollY;
   if (scrollTop < 0.25* windowHeight){
@@ -12526,8 +12634,6 @@ window.addEventListener('scroll', () => {
     combinations[6].classList.remove('visible');
     combinations[6].classList.add('hidden');
 
-    combinations[7].classList.remove('visible');
-    combinations[7].classList.add('hidden');
 
 	combinations[0].classList.remove('visible');
     combinations[0].classList.add('hidden');
@@ -12536,6 +12642,7 @@ window.addEventListener('scroll', () => {
   }
   if (scrollTop >= 0.25 * windowHeight) {
     // show the first combination
+
 	gradient.classList.remove('hidden');
 	gradient.classList.add('visible');
     combinations[0].classList.remove('hidden');
@@ -12554,9 +12661,8 @@ window.addEventListener('scroll', () => {
 
     combinations[6].classList.remove('hidden');
     combinations[6].classList.add('visible');
+	
 
-    combinations[7].classList.remove('hidden');
-    combinations[7].classList.add('visible');
   }
 
     const scrollTop1 = document.documentElement.scrollTop;
@@ -12638,8 +12744,8 @@ window.addEventListener('scroll', () => {
     feather.replace()
 
     // ScrollReveal
-    ScrollReveal().reveal('.hero, .hero1, .title, .screen, .features, .cards, .zero-slider', {
-      distance: '40px',
+    ScrollReveal().reveal('.hero, .jsx-3590430544, .jsx-311176064, .jsx-3758366964, .hero1, .title, .screen, .jsx-158746642, .features, .cards, .zero-slider, .chatbot-container, .user-input-container, .chat-header, .profile-picture, .bot-info, .chat-message', {
+      distance: '40px', 
       duration: 2000,
       mobile: false,
       reset: false,
