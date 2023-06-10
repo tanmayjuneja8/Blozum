@@ -698,13 +698,13 @@ h2,
     font-weight: normal;
     font-family: "colfax-light", sans-serif;
     line-height: 1.6;
-    font-size: 40px;
+    font-size: 70px;
     color: #222
 }
 
 h2,
 .h2 {
-    font-size: 36px
+    font-size: 70px
 }
 
 h3,
@@ -943,7 +943,8 @@ button {
 }
 
 .hero {
-    padding: 30vh 0 200px;
+    padding: 30vh 0;
+    z-index: 999; /* Adjust the value as needed */
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
@@ -952,22 +953,12 @@ button {
     justify-content: space-between;
     align-items: center; 
     flex-direction: column;
-    width: 100%
-}
-.hero1 {
-    margin-top: 150px; padding-top: 50px;
-    padding: 0px 0 0px;
-    position: fixed;
-    top:0;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    height: 100%;
-    display: flex; /* use flexbox to center the text */
-    justify-content: center; /* horizontally center the text */
-    align-items: center; 
-    flex-direction: column;
-    width: 100%
+    width: 100%;
+    /* background-image: url('https://images.ctfassets.net/xny2w179f4ki/6pNHltxbB40NlnO60KEtyA/d0b1c442eef6ec722200ef6aeacca342/hero-gradient-v2.jpg'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  z-index: -999;
 }
 
 
@@ -1313,9 +1304,6 @@ button {
 }
 
 @media (max-width: 900px) {
-    .hero {
-        padding: 140px 0 60px
-    }
 
     .screen-wrapper .screen {
         margin: 0 auto -40px;
@@ -2135,13 +2123,13 @@ h2,
     font-weight: normal;
     font-family: "colfax-light", sans-serif;
     line-height: 1.6;
-    font-size: 40px;
+    font-size: 70px;
     color: #222
 }
 
 h2,
 .h2 {
-    font-size: 36px
+    font-size: 70px
 }
 
 h3,
@@ -2171,15 +2159,6 @@ a:hover {
     color: #000000;
 }
 
-@media (max-width: 900px) {
-
-    h1,
-    .h1,
-    h2,
-    .h2 {
-        font-size: 30px
-    }
-}
 
 /*# sourceMappingURL=styles.css.map */
 
