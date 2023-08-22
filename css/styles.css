@@ -3,12 +3,12 @@
     font-family: "Avenir Next", Arial, sans-serif;
 }
 
-.blz_b,
-.blz_b:hover {
+.button-35,
+.button-35:hover {
     color: #fff
 }
 
-.blz_b:hover,
+.button-35:hover,
 .chatbox_button button:hover {
     box-shadow: #90b89b 0 0 0 3px, transparent 0 0 0 0
 }
@@ -18,12 +18,14 @@
         width: 25%;
     }
 }
+
 @media only screen and (min-width: 601px) and (max-width:800px) {
     .chatbox {
         width: 50%;
     }
 }
-@media screen and (min-width: 200px) and (max-width:601px){
+
+@media screen and (min-width: 200px) and (max-width:601px) {
     .chatbox {
         width: 90%;
     }
@@ -38,9 +40,9 @@
     background-color: #fff
 }
 
-.blz_b,
-.blz_b:hover,
-.blz_b_in:hover {
+.button-35,
+.button-35:hover,
+.button-3:hover {
     background-color: #000
 }
 
@@ -58,8 +60,8 @@
     height: 100%;
 }
 
-.blz_b_in,
-.blz_b {
+.button-3,
+.button-35 {
     display: inline-flex;
     line-height: 1;
     padding: 15px;
@@ -70,13 +72,13 @@
 }
 
 *,
-.blz_b_in,
-.blz_b {
+.button-3,
+.button-35 {
     box-sizing: border-box;
     margin: 0
 }
 
-.blz_b {
+.button-35 {
     align-items: center;
     border-radius: 15px;
     box-shadow: transparent 0 0 0 6px, rgba(18, 18, 18, .4) 0 6px 20px;
@@ -93,17 +95,17 @@
     -webkit-user-select: none
 }
 
-.blz_b_in,
+.button-3,
 .send__button {
     background: 0 0;
     outline: 0;
     cursor: pointer
 }
 
-.blz_b_in {
+.button-3 {
     align-items: center;
     border-radius: 15px;
-    background: -webkit-linear-gradient(left, #000, #9357FF);
+    background: -webkit-linear-gradient(left, #f58698, #ffc3a0);
     box-shadow: 0 0 0 rgba(0, 0, 0, .1);
     width: 100%;
     color: #000;
@@ -115,7 +117,7 @@
     -webkit-user-select: none
 }
 
-.blz_b_in:hover {
+.button-3:hover {
     box-shadow: transparent 0 0 0 3px, rgba(36, 36, 36, .4) 0 3px 5px;
     font-weight: 700
 }
@@ -128,8 +130,8 @@
 * {
     padding: 0;
     --secondaryGradient: linear-gradient(268.91deg,
-            #000 -2.14%,
-            #9357FF 99.69%);
+            #f58698 -2.14%,
+            #ffc3a0 99.69%);
     --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1)
 }
@@ -227,12 +229,12 @@
 
 .chatbox__heading--header {
     font-size: 1.2rem;
-    color: #fff
+    color: #000
 }
 
 .chatbox__description--header {
     font-size: .9rem;
-    color: #fff
+    color: #000;
 }
 
 .chatbox__messages {
@@ -260,8 +262,8 @@
 .messages__item--operator {
     margin-left: auto;
     border-bottom-left-radius: 20px;
-    background: -webkit-linear-gradient(left, #000, #9357FF);
-    color: #fff
+    background: -webkit-linear-gradient(left, #f58698, #ffc3a0);
+    color: #000
 }
 
 .chatbox__footer {
@@ -433,7 +435,7 @@
 .blz_s {
     width: 10px;
     height: 10px;
-    background-color: #000;
+    background-color: #f58698;
     opacity: 0.8;
     display: inline-block;
     margin: 1px;
@@ -466,6 +468,7 @@
         transform: translateY(0px);
     }
 }
+
 .chatbox__content--header {
     margin-left: 10px;
 }
