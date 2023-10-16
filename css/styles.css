@@ -15,20 +15,24 @@
 
 @media only screen and (min-width: 801px) {
     .chatbox {
-        width: 25%;
+        width: 37%;
     }
 }
 
 @media only screen and (min-width: 601px) and (max-width:800px) {
     .chatbox {
-        width: 50%;
+        width: 51%;
     }
 }
 
 @media screen and (min-width: 200px) and (max-width:601px) {
     .chatbox {
-        width: 90%;
+        width: 91%;
     }
+}
+
+.image_bg {
+    width: 90%;
 }
 
 :root {
@@ -95,11 +99,44 @@
     -webkit-user-select: none
 }
 
-.button-3,
-.send__button {
+.button-3 {
     background: 0 0;
     outline: 0;
     cursor: pointer
+}
+
+.send__button_BLZ {
+    border-radius: 50%;
+    background-color: #f58698;
+    color: #f58698;
+    width: calc(3em + 2px);
+    height: calc(3em + 2px);
+    display: flex;
+    /* Flexbox for centering */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    border: none;
+    /* Remove the default border */
+    text-align: center;
+    transition: box-shadow .2s, -webkit-box-shadow .2s;
+    white-space: nowrap;
+    /* touch-action: manipulation; */
+    box-shadow: transparent 0 0 0 5px,
+        rgba(18, 18, 18, .4) 0 5px 15px;
+    cursor: pointer;
+    flex: 1 1 auto;
+    margin: 0 0 0 8px;
+}
+
+.send__button_BLZ:hover {
+    box-shadow: transparent 0 0 0 3px,
+        rgba(18, 18, 18, .4) 0 3px 9px;
+}
+
+.send__button_BLZ:active {
+    box-shadow: #ccc 0 0 0 3px, transparent 0 0 0 0;
 }
 
 .button-3 {
@@ -114,7 +151,8 @@
     box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, .2) 0 3px 5px;
     border: 0;
     user-select: none;
-    -webkit-user-select: none
+    -webkit-user-select: none;
+    margin: 0 3px;
 }
 
 .button-3:hover {
@@ -140,7 +178,7 @@
     position: absolute;
     bottom: 10px;
     right: 10px;
-    height: 80%;
+    height: 90%;
 }
 
 .chatbox__support {
@@ -148,7 +186,12 @@
     flex-direction: column;
     z-index: -123456;
     opacity: 0;
-    transition: .5s ease-in-out
+    transition: .5s ease-in-out;
+    background: #fff;
+    height: 87%;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .1);
+    border-radius: 20px 20px 0
 }
 
 .chatbox--active {
@@ -176,7 +219,7 @@
     margin-top: auto;
     display: flex;
     overflow-y: scroll;
-    flex-direction: column-reverse
+    flex-direction: column-reverse;
 }
 
 .messages__item {
@@ -184,7 +227,9 @@
 }
 
 .messages__item--visitor {
-    margin-right: auto
+    margin-right: auto;
+    overflow-wrap: break-word;
+    max-width: 100%;
 }
 
 .chatbox__footer {
@@ -192,14 +237,6 @@
     bottom: 0;
     height: 10.5%;
     z-index: -999
-}
-
-.chatbox__support {
-    background: #fff;
-    height: 80%;
-    width: 100%;
-    box-shadow: 0 0 15px rgba(0, 0, 0, .1);
-    border-radius: 20px 20px 0
 }
 
 .chatbox__header {
@@ -215,7 +252,8 @@
 
 .messages__item--operator,
 .messages__item--typing,
-.messages__item--visitor {
+.messages__item--visitor,
+.visitor_menu_BLZ {
     box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, .2) 0 3px 5px;
     font-size: 15px;
     border-top-right-radius: 20px;
@@ -250,13 +288,13 @@
     background: #fff;
     color: #000;
     padding: 10px 12px;
-    max-width: 70%
+    max-width: 70%;
 }
 
 .messages__item--typing,
 .messages__item--visitor {
     border-bottom-right-radius: 20px;
-    background: #eee
+    background: #eee;
 }
 
 .messages__item--operator {
@@ -472,3 +510,123 @@
 .chatbox__content--header {
     margin-left: 10px;
 }
+
+.home_button_BLZ {
+    border-radius: 50%;
+    background-color: #f58698;
+    color: #fff;
+    width: calc(3em + 2px);
+    height: calc(3em + 2px);
+    display: flex;
+    /* Flexbox for centering */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    border: none;
+    /* Remove the default border */
+    text-align: center;
+    transition: box-shadow .2s, -webkit-box-shadow .2s;
+    white-space: nowrap;
+    touch-action: manipulation;
+    box-shadow: transparent 0 0 0 5px,
+        rgba(18, 18, 18, .4) 0 5px 15px;
+    cursor: pointer;
+    flex: 1 1 auto;
+}
+
+.home_button_BLZ:hover {
+    box-shadow: transparent 0 0 0 3px,
+        rgba(18, 18, 18, .4) 0 3px 9px;
+}
+
+.home_button_BLZ:active {
+    box-shadow: #ccc 0 0 0 3px, transparent 0 0 0 0;
+}
+
+.visitor_menu_BLZ {
+    position: relative;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 16px;
+    background: #fff;
+    color: #000;
+    padding: 10px 12px;
+    width: 90%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #fafafa;
+    z-index: 1000;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+input {
+    width: 90%;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+    text-align: left;
+    color: #000;
+    margin: 0 0 6px;
+}
+
+/* 
+input[type="text"], input[type="email"] {
+	 box-sizing: border-box;
+     width: 100%;
+     height: calc(3em + 2px);
+	 margin: 0 0 1em;
+	 padding: 1em;
+	 border: 1px solid #ccc;
+	 border-radius: 1.5em;
+     background: #fff;
+	 resize: none;
+	 outline: none;
+}
+ input[type="text"][required]:focus, input[type="email"][required]:focus {
+	 border-color: #76838c;
+}
+ input[type="text"][required]:focus+label[placeholder]:before,
+ input[type="email"][required]:focus+label[placeholder]:before {
+	 color: #76838c;
+}
+ input[type="text"][required]:focus+label[placeholder]:before,
+ input[type="text"][required]:valid+label[placeholder]:before,
+ input[type="email"][required]:focus+label[placeholder]:before,
+ input[type="email"][required]:valid+label[placeholder]:before {
+	 transition-duration: .2s;
+	 transform: translate(0,-1.5em) scale(.9,.9);
+}
+ input[type="text"][required]:invalid+label[placeholder][alt]:before,
+ input[type="email"][required]:invalid+label[placeholder][alt]:before {
+	 content: attr(alt);
+}
+ input[type="text"][required]+label[placeholder],
+ input[type="email"][required]+label[placeholder] {
+	 display: block;
+	 pointer-events: none;
+	 line-height: 1.25em;
+	 margin-top: calc(-3em - 2px);
+	 margin-bottom: calc((3em - 1em) + 2px);
+}
+ input[type="text"][required]+label[placeholder]:before,
+ input[type="email"][required]+label[placeholder]:before {
+	 content: attr(placeholder);
+	 display: inline-block;
+	 margin: 0 calc(1em + 2px);
+	 padding: 0 2px;
+	 color: #F58999;
+	 white-space: nowrap;
+	 transition: .3s ease-in-out;
+	 background-image: transparent;
+	 background-size: 100% 5px;
+	 background-repeat: no-repeat;
+	 background-position: center;
+} */
