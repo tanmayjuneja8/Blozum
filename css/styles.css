@@ -576,7 +576,31 @@ input {
     color: #000;
     margin: 0 0 6px;
 }
-
+.message-reaction {
+    display: none;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.thumb-up {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    border-color: #f58698;
+    border-width: thin;
+}
+.thumb-down {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    border-color: #f58698;
+    border-width: thin;
+}
+.messages__item--visitor:hover .message-reaction {
+    display: contents;
+}
 /* 
 input[type="text"], input[type="email"] {
 	 box-sizing: border-box;
