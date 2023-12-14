@@ -1,1 +1,628 @@
-(function(_0x3f1f8d,_0x4d6194){var _0x2b16b5=_0x40b0,_0x45af7d=_0x3f1f8d();while(!![]){try{var _0x1137fb=-parseInt(_0x2b16b5(0x240))/0x1*(-parseInt(_0x2b16b5(0x219))/0x2)+-parseInt(_0x2b16b5(0x1e5))/0x3*(parseInt(_0x2b16b5(0x233))/0x4)+parseInt(_0x2b16b5(0x239))/0x5*(-parseInt(_0x2b16b5(0x1d4))/0x6)+-parseInt(_0x2b16b5(0x1d1))/0x7+-parseInt(_0x2b16b5(0x1c9))/0x8+parseInt(_0x2b16b5(0x1c1))/0x9+parseInt(_0x2b16b5(0x1e6))/0xa*(parseInt(_0x2b16b5(0x20c))/0xb);if(_0x1137fb===_0x4d6194)break;else _0x45af7d['push'](_0x45af7d['shift']());}catch(_0x213a20){_0x45af7d['push'](_0x45af7d['shift']());}}}(_0x21d6,0xd247e));function _0x40b0(_0x52368f,_0x119eb7){var _0x21d6fb=_0x21d6();return _0x40b0=function(_0x40b0df,_0x53042a){_0x40b0df=_0x40b0df-0x1a4;var _0x3d8c42=_0x21d6fb[_0x40b0df];return _0x3d8c42;},_0x40b0(_0x52368f,_0x119eb7);}function _0x21d6(){var _0x1a74d5=['User','input','-4.8\x20-4.8\x2033.60\x2033.60','blz_ticket_first_name','.chatbox__messages','placeholder','trim','9709680WxyBDA','Get\x20Invoice','then','log','.chatbox__support','messages','#fff','addEventListener','4596312zkIQDS','track_order','no_donot_open_support_ticket_blozumdabest82340978294587','8426358IvKrGt','chatbox__header','split','<strong>','version','join','translate(0.000000,584.000000)\x20scale(0.100000,-0.100000)','svg','Refund\x20Status','black','createElementNS','M0\x202920\x20l0\x20-2920\x202920\x200\x202920\x200\x200\x202920\x200\x202920\x20-2920\x200\x20-2920\x200\x200\x20-2920z\x20m1000\x20678\x20l0\x20-743\x2032\x2053\x20c63\x20108\x20189\x20223\x20318\x20287\x20174\x2088\x20375\x20116\x20564\x2080\x20315\x20-60\x20584\x20-314\x20667\x20-630\x2029\x20-113\x2029\x20-297\x201\x20-417\x20-70\x20-289\x20-319\x20-545\x20-607\x20-624\x20-81\x20-21\x20-297\x20-30\x20-377\x20-15\x20-219\x2043\x20-430\x20175\x20-544\x20342\x20l-49\x2071\x20-5\x20-193\x20-5\x20-193\x20-55\x20-1\x20-55\x200\x20-3\x201363\x20-2\x201362\x2060\x200\x2060\x200\x200\x20-742z\x20m2070\x20-360\x20c0\x20-1202\x20-1\x20-1165\x2057\x20-1285\x2032\x20-64\x20137\x20-174\x20196\x20-204\x2069\x20-36\x20148\x20-59\x20199\x20-59\x20l48\x200\x200\x20-45\x20c0\x20-25\x20-1\x20-48\x20-2\x20-52\x20-4\x20-11\x20-94\x20-4\x20-161\x2013\x20-105\x2025\x20-185\x2072\x20-273\x20159\x20-57\x2057\x20-90\x2099\x20-113\x20145\x20-69\x20143\x20-65\x2056\x20-68\x201303\x20l-4\x201127\x2061\x200\x2060\x200\x200\x20-1102z\x20m1800\x207\x20c0\x20-3\x20-87\x20-148\x20-194\x20-322\x20-596\x20-979\x20-726\x20-1194\x20-726\x20-1198\x200\x20-3\x20207\x20-5\x20461\x20-5\x20l460\x200\x20-3\x20-52\x20-3\x20-53\x20-557\x20-2\x20c-378\x20-1\x20-558\x201\x20-558\x208\x200\x209\x2058\x20106\x20420\x20704\x2054\x2088\x20188\x20310\x20298\x20493\x20l202\x20332\x20-415\x200\x20-415\x200\x200\x2050\x200\x2050\x20515\x200\x20c283\x200\x20515\x20-2\x20515\x20-5z','Blozum','chat_button','classList','backgroundColor','margin','6GSigPb','7465000TNDFZE','getElementById','BLZ_input','fill','submitOrder','<br>','value','&nbsp;','xMidYMid\x20meet','True','#000','<div\x20class=\x22messages__item\x20messages__item--visitor\x22><span\x20class=\x22message-content\x22>','blz_ticket_mobile_number','<div><svg\x20preserveAspectRatio=\x22none\x22\x20viewBox=\x220\x200\x20192\x205\x22><path\x20d=\x22M191.246\x204H129C129\x204\x20127.781\x204.00674\x20127\x204C114.767\x203.89447\x20108.233\x201\x2096\x201C83.7669\x201\x2077.2327\x203.89447\x2065\x204C64.219\x204.00674\x2063\x204\x2063\x204H0.751923\x22\x20/></svg></div>','object','xmlns','</span>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22message-reaction\x22>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22thumb-up\x22\x20onclick=\x22handleReaction(\x27True\x27)\x22>👍</button>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22thumb-down\x22\x20onclick=\x22handleReaction(\x27False\x27)\x22>👎</button>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div></div>','#3cb043','get_invoice','Track\x20Order','transform','POST','Get\x20Designs','message','click','chatbox__image--header','</div>','add','chatbox__messages','name','M1597\x203175\x20c-94\x20-18\x20-220\x20-77\x20-299\x20-139\x20-132\x20-105\x20-243\x20-271\x20-284\x20-426\x20-24\x20-88\x20-24\x20-272\x200\x20-360\x2055\x20-209\x20217\x20-404\x20414\x20-500\x20178\x20-87\x20415\x20-94\x20595\x20-18\x20168\x2070\x20330\x20228\x20402\x20393\x2045\x20101\x2059\x20172\x2059\x20305\x200\x20187\x20-40\x20312\x20-145\x20453\x20-100\x20133\x20-266\x20248\x20-407\x20283\x20-89\x2022\x20-245\x2026\x20-335\x209z','setAttribute','blz_ticket_subject','blozum','\x0a\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22messages__item\x20messages__item--visitor\x22\x20style=\x22width:\x20100%\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<form\x20onsubmit=\x22return\x20BLZ_supp_ticket(event);\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<input\x20type=\x22text\x22\x20required\x20id=\x22blz_ticket_first_name\x22\x20style=\x22width:100%;\x22\x20placeholder=\x22First\x20name\x20*\x22\x20alt=\x22First\x20Name\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<input\x20type=\x22text\x22\x20required\x20id=\x22blz_ticket_last_name\x22\x20style=\x22width:100%;\x22\x20placeholder=\x22Last\x20Name\x20*\x22\x20alt=\x22Last\x20Name\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<input\x20type=\x22email\x22\x20required\x20id=\x22blz_ticket_email\x22\x20style=\x22width:100%;\x22\x20placeholder=\x22Enter\x20Email\x20*\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<input\x20type=\x22text\x22\x20required\x20id=\x22blz_ticket_mobile_number\x22\x20style=\x22width:100%;\x22\x20placeholder=\x22Enter\x20mobile\x20number\x20*\x22\x20alt=\x22Mobile\x20Number\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<input\x20type=\x22text\x22\x20required\x20placeholder=\x22Subject\x20*\x22\x20id=\x22blz_ticket_subject\x22\x20style=\x22width:100%;\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<input\x20type=\x22text\x22\x20required\x20id=\x22blz_ticket_description\x22\x20placeholder=\x22Enter\x20Description\x20*\x22\x20style=\x22width:100%;\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<button\x20class=\x27button-3\x27\x20onClick=\x22BLZ_supp_ticket(event);\x22\x20style=\x27background:\x20-webkit-linear-gradient(left,\x20#F58698,\x20#ffc3a0);\x27>Submit</button>\x0a\x09\x09\x09\x09\x09\x09\x09\x09</form>\x0a\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09','Yes123','selectOption','sendButton','55rEwote','clip-rule','50px','.chatbox__button','scrollHeight','stringify','none','blz_ticket_description','Powered\x20by\x20<strong><a\x20class=\x27link\x27\x20href=\x27https://blozum.com/\x27>Blozum</a></strong>','chatbox--active','height','http://www.w3.org/2000/svg','<div\x20class=\x22visitor_menu_BLZ\x22>\x0a\x09\x20\x20\x20\x20<div\x20class=\x22flex-container\x22>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22button-3\x22\x20id=\x22order_details\x22\x20onclick=\x22selectOption(\x27order_details\x27)\x22>Order\x20Details</button>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22button-3\x22\x20id=\x22refund_status\x22\x20onclick=\x22selectOption(\x27refund_status\x27)\x22>Refund\x20Status</button>\x0a\x09\x20\x20\x20\x20</div>\x0a\x09\x20\x20\x20\x20<div\x20style=\x22height:\x205px;\x22></div>\x0a\x09\x20\x20\x20\x20<div\x20class=\x22flex-container\x22>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22button-3\x22\x20id=\x22get_invoice\x22\x20onclick=\x22selectOption(\x27get_invoice\x27)\x22>Get\x20Invoice</button>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22button-3\x22\x20id=\x22track_order\x22\x20onclick=\x22selectOption(\x27track_order\x27)\x22>Track\x20Order</button>\x0a\x09\x20\x20\x20\x20</div>\x0a\x09\x20\x20\x20\x20<div\x20style=\x22height:\x205px;\x22></div>\x0a\x09\x20\x20\x20\x20<div\x20class=\x22flex-container\x22>\x0a\x09\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22button-3\x22\x20id=\x22yes_open_support_ticket_blz12345\x22\x20onclick=\x22selectOption(\x27open_support_ticket\x27)\x22>Create\x20Support\x20Ticket</button>\x0a\x09\x20\x20\x20\x20</div>\x0a\x09</div>','62nXoKOh','uuid','0\x200\x20584\x20584','white','BLZ_supp_ticket','rounded-svg','https://aiwvg3t87i.execute-api.ap-south-1.amazonaws.com/default/Blozum_ITC_backend','<div\x20class=\x22messages__item\x20messages__item--visitor\x22><form\x20style=\x22position:\x20relative;\x22><input\x20type=\x22text\x22\x20required\x20id=\x22order_number\x22\x20maxlength=\x2220\x22\x20style=\x22width:100%;\x22\x20placeholder=\x22Enter\x20Order\x20ID\x22\x20alt=\x22Please\x20enter\x20OrderID\x22></form><button\x20class=\x27button-3\x27\x20onClick=\x27submitOrder()\x27\x20style=\x27background:\x20-webkit-linear-gradient(left,\x20#F58698,\x20#ffc3a0);\x27>Submit</button></div>','maxLength','setItem','<div\x20class=\x22messages__item\x20messages__item--visitor\x22\x20id=\x22animation_dots\x22><div\x20class=\x22typing-animation\x22><span\x20class=\x22blz_s\x22></span><span\x20class=\x22blz_s\x22></span><span\x20class=\x22blz_s\x22></span></div></div>','<div><span>','viewBox','querySelector','querySelectorAll','handleReaction','firstChild','1.0','chatbox__content--header','text','path','body','forEach','keyup','Classmate\x20Notebooks\x20Customer\x20Support','evenodd','2824532Mckljk','contains','button','dont_open_support_ticket','insertAdjacentHTML','style','5vFQKAX','</strong>:\x20','<div\x20class=\x22messages__item\x20messages__item--operator\x22>','order_number','.link','hasOwnProperty','push','36293SQSWrw','textContent','appendChild','stroke','chatbox__button','Ticket\x20URL','animation_dots','createElement','M1.265\x204.42619C1.04293\x202.87167\x202.6169\x201.67931\x204.05323\x202.31397L21.8341\x2010.1706C23.423\x2010.8727\x2023.423\x2013.1273\x2021.8341\x2013.8294L4.05323\x2021.686C2.6169\x2022.3207\x201.04293\x2021.1283\x201.265\x2019.5738L1.99102\x2014.4917C2.06002\x2014.0087\x202.41458\x2013.6156\x202.88791\x2013.4972L8.87688\x2012L2.88791\x2010.5028C2.41458\x2010.3844\x202.06002\x209.99129\x201.99102\x209.50829L1.265\x204.42619ZM21.0257\x2012L3.2449\x204.14335L3.89484\x208.69294L12.8545\x2010.9328C13.9654\x2011.2106\x2013.9654\x2012.7894\x2012.8545\x2013.0672L3.89484\x2015.3071L3.2449\x2019.8566L21.0257\x2012Z','application/json','Order\x20Details','className','chatbox__heading--header','div','visitor_menu_BLZ','open_support_ticket','width','False','slice','user','reverse','chatbox__description--header','.send__button_BLZ','innerHTML','</span><span>','40px','.container','preserveAspectRatio','refund_status','remove','6216408OAaLyL'];_0x21d6=function(){return _0x1a74d5;};return _0x21d6();}function initializeChatbot(_0x4c2f8b){var _0x304f05=_0x40b0,_0x2efce3=localStorage['getItem'](_0x304f05(0x21a)),_0x1b9265=_0x304f05(0x1b4);!_0x2efce3&&(_0x2efce3=uuidv4(),localStorage[_0x304f05(0x222)]('uuid',_0x2efce3));if(!document[_0x304f05(0x226)](_0x304f05(0x1bd))){var _0x21e52d=document[_0x304f05(0x1aa)](_0x304f05(0x1b0));_0x21e52d[_0x304f05(0x1ae)]='container';var _0x57377a=document['createElement']('div');_0x57377a['className']='chatbox';var _0x2d0d3b=document['createElement'](_0x304f05(0x1b0));_0x2d0d3b['className']='chatbox__support';var _0x705940=document[_0x304f05(0x1aa)](_0x304f05(0x1b0));_0x705940[_0x304f05(0x1ae)]=_0x304f05(0x1d5);var _0x512e27=document[_0x304f05(0x1aa)](_0x304f05(0x1b0));_0x512e27['className']=_0x304f05(0x1ff);var _0x118a98=document[_0x304f05(0x1de)](_0x304f05(0x217),_0x304f05(0x1db));_0x118a98[_0x304f05(0x205)]('version',_0x304f05(0x22a)),_0x118a98['setAttribute'](_0x304f05(0x1f5),_0x304f05(0x217)),_0x118a98[_0x304f05(0x205)](_0x304f05(0x1b3),_0x304f05(0x20e)),_0x118a98[_0x304f05(0x205)]('height',_0x304f05(0x20e)),_0x118a98['setAttribute'](_0x304f05(0x225),_0x304f05(0x21b)),_0x118a98[_0x304f05(0x205)](_0x304f05(0x1be),_0x304f05(0x1ee)),_0x118a98['classList']['add'](_0x304f05(0x21e));var _0x546d40=document[_0x304f05(0x1de)](_0x304f05(0x217),'g');_0x546d40[_0x304f05(0x205)](_0x304f05(0x1fa),_0x304f05(0x1da)),_0x546d40['setAttribute']('fill','#000'),_0x546d40['setAttribute'](_0x304f05(0x1a6),_0x304f05(0x1f0));var _0x47d907=document[_0x304f05(0x1de)](_0x304f05(0x217),_0x304f05(0x22d));_0x47d907[_0x304f05(0x205)]('d',_0x304f05(0x1df));var _0x396ddf=document[_0x304f05(0x1de)]('http://www.w3.org/2000/svg',_0x304f05(0x22d));_0x396ddf['setAttribute']('d',_0x304f05(0x204)),_0x546d40[_0x304f05(0x1a5)](_0x47d907),_0x546d40[_0x304f05(0x1a5)](_0x396ddf),_0x118a98['appendChild'](_0x546d40),_0x512e27[_0x304f05(0x1a5)](_0x118a98);var _0x4545b6=document[_0x304f05(0x1aa)](_0x304f05(0x1b0));_0x4545b6['className']=_0x304f05(0x22b);var _0x3dcb72=document[_0x304f05(0x1aa)]('h4');_0x3dcb72[_0x304f05(0x1ae)]=_0x304f05(0x1af),_0x3dcb72['textContent']=_0x304f05(0x1e0);var _0x89042c=document['createElement']('p');_0x89042c[_0x304f05(0x1ae)]=_0x304f05(0x1b8),_0x89042c[_0x304f05(0x1a4)]=_0x304f05(0x231),_0x4545b6[_0x304f05(0x1a5)](_0x3dcb72),_0x4545b6[_0x304f05(0x1a5)](_0x89042c),_0x705940[_0x304f05(0x1a5)](_0x512e27),_0x705940[_0x304f05(0x1a5)](_0x4545b6);var _0x4a8394=document['createElement'](_0x304f05(0x1b0));_0x4a8394[_0x304f05(0x1ae)]=_0x304f05(0x202);var _0x127b74=document['createElement'](_0x304f05(0x1b0));_0x4a8394[_0x304f05(0x1a5)](_0x127b74);var _0x3ab9cc=document['createElement'](_0x304f05(0x1b0));_0x3ab9cc['className']='chatbox__footer';var _0xfec3d1=document[_0x304f05(0x1aa)](_0x304f05(0x1c3));_0xfec3d1['type']='text',_0xfec3d1['id']=_0x304f05(0x1e8),_0xfec3d1[_0x304f05(0x1c7)]='Ask\x20me\x20anything\x20about\x20Classmate...',_0xfec3d1['style'][_0x304f05(0x1e3)]=_0x304f05(0x1cf),_0xfec3d1[_0x304f05(0x238)][_0x304f05(0x1e4)]=0x0,_0xfec3d1[_0x304f05(0x221)]=0xfa;const _0x36d05b=document[_0x304f05(0x1aa)](_0x304f05(0x1b0));_0x36d05b[_0x304f05(0x1ae)]=_0x304f05(0x207),_0x36d05b[_0x304f05(0x1ba)]=_0x304f05(0x214);var _0x436992=document[_0x304f05(0x1aa)](_0x304f05(0x235));_0x436992[_0x304f05(0x1ae)]='chatbox__send--footer\x20send__button_BLZ';var _0x101748=document[_0x304f05(0x1de)](_0x304f05(0x217),_0x304f05(0x1db));_0x101748['setAttribute'](_0x304f05(0x225),_0x304f05(0x1c4)),_0x101748[_0x304f05(0x205)](_0x304f05(0x1b3),_0x304f05(0x1bc)),_0x101748['setAttribute']('height',_0x304f05(0x1bc)),_0x101748['setAttribute'](_0x304f05(0x1e9),'none'),_0x101748[_0x304f05(0x205)](_0x304f05(0x1f5),_0x304f05(0x217)),_0x101748['setAttribute'](_0x304f05(0x1a6),'#'),_0x101748[_0x304f05(0x205)]('stroke-width','0.00024000000000000003');var _0x5028e5=document[_0x304f05(0x1de)]('http://www.w3.org/2000/svg','path');_0x5028e5['setAttribute']('fill-rule',_0x304f05(0x232)),_0x5028e5[_0x304f05(0x205)](_0x304f05(0x20d),_0x304f05(0x232)),_0x5028e5[_0x304f05(0x205)]('d',_0x304f05(0x1ab)),_0x5028e5[_0x304f05(0x205)]('fill',_0x304f05(0x1cf)),_0x101748[_0x304f05(0x1a5)](_0x5028e5),_0x436992[_0x304f05(0x1a5)](_0x101748),_0x3ab9cc['appendChild'](_0xfec3d1),_0x3ab9cc[_0x304f05(0x1a5)](_0x436992),_0x3ab9cc[_0x304f05(0x1a5)](_0x36d05b),_0x2d0d3b[_0x304f05(0x1a5)](_0x705940),_0x2d0d3b['appendChild'](_0x4a8394),_0x2d0d3b['appendChild'](_0x3ab9cc),_0x2d0d3b['appendChild'](_0x36d05b);var _0x404316=document[_0x304f05(0x1aa)](_0x304f05(0x1b0));_0x404316[_0x304f05(0x1ae)]=_0x304f05(0x1a7);var _0x1751d2=document[_0x304f05(0x1aa)](_0x304f05(0x235));_0x1751d2['className']='button-35',_0x1751d2['id']=_0x304f05(0x1e1);var _0x118a98=document[_0x304f05(0x1de)](_0x304f05(0x217),_0x304f05(0x1db));_0x118a98[_0x304f05(0x205)](_0x304f05(0x1d8),_0x304f05(0x22a)),_0x118a98[_0x304f05(0x205)](_0x304f05(0x1f5),'http://www.w3.org/2000/svg'),_0x118a98[_0x304f05(0x205)]('width',_0x304f05(0x20e)),_0x118a98[_0x304f05(0x205)](_0x304f05(0x216),_0x304f05(0x20e)),_0x118a98[_0x304f05(0x205)](_0x304f05(0x225),_0x304f05(0x21b)),_0x118a98['setAttribute']('preserveAspectRatio','xMidYMid\x20meet'),_0x118a98[_0x304f05(0x1e2)][_0x304f05(0x201)](_0x304f05(0x21e));var _0x546d40=document[_0x304f05(0x1de)](_0x304f05(0x217),'g');_0x546d40[_0x304f05(0x205)](_0x304f05(0x1fa),'translate(0.000000,584.000000)\x20scale(0.100000,-0.100000)'),_0x546d40[_0x304f05(0x205)](_0x304f05(0x1e9),_0x304f05(0x1f7)),_0x546d40[_0x304f05(0x205)](_0x304f05(0x1a6),_0x304f05(0x1f0));var _0x47d907=document[_0x304f05(0x1de)](_0x304f05(0x217),'path');_0x47d907[_0x304f05(0x205)]('d',_0x304f05(0x1df));var _0x396ddf=document[_0x304f05(0x1de)](_0x304f05(0x217),_0x304f05(0x22d));_0x396ddf[_0x304f05(0x205)]('d',_0x304f05(0x204)),_0x546d40[_0x304f05(0x1a5)](_0x47d907),_0x546d40[_0x304f05(0x1a5)](_0x396ddf),_0x118a98['appendChild'](_0x546d40),_0x1751d2[_0x304f05(0x1a5)](_0x118a98),_0x404316[_0x304f05(0x1a5)](_0x1751d2),_0x57377a[_0x304f05(0x1a5)](_0x2d0d3b),_0x57377a[_0x304f05(0x1a5)](_0x404316),_0x21e52d[_0x304f05(0x1a5)](_0x57377a),document[_0x304f05(0x22e)][_0x304f05(0x1a5)](_0x21e52d);}var _0x175005=document[_0x304f05(0x226)](_0x304f05(0x20f)),_0x3265cc=document[_0x304f05(0x226)](_0x304f05(0x1cd)),_0x436992=document[_0x304f05(0x226)](_0x304f05(0x1b9)),_0x46f4da=document['getElementById'](_0x304f05(0x1e1));_0xe400a1();var _0x4ec7e6=[],_0x923bf8=[],_0xd01a3b=_0x304f05(0x212);_0x175005[_0x304f05(0x1d0)]('click',()=>_0x56f66f(_0x3265cc)),document['querySelector'](_0x304f05(0x1b9))[_0x304f05(0x1d0)](_0x304f05(0x1fe),()=>_0x294e47(_0x3265cc));var _0x14d0d1=_0x3265cc[_0x304f05(0x226)](_0x304f05(0x1c3));_0x14d0d1['addEventListener'](_0x304f05(0x230),({key:_0x5e9387})=>{var _0x2b3dfa=_0x304f05;_0x5e9387==='Enter'&&document[_0x2b3dfa(0x226)](_0x2b3dfa(0x1b9))[_0x2b3dfa(0x1fe)]();});var _0x41a846=![];document[_0x304f05(0x227)](_0x304f05(0x23d))[_0x304f05(0x22f)](_0x3799bd=>{var _0x5f4412=_0x304f05;_0x3799bd[_0x5f4412(0x1ba)]=_0x5f4412(0x224)+_0x3799bd[_0x5f4412(0x1a4)][_0x5f4412(0x1c8)]()[_0x5f4412(0x1d6)]('')[_0x5f4412(0x1d9)](_0x5f4412(0x1bb))+'</span></div>',_0x3799bd[_0x5f4412(0x227)]('span')[_0x5f4412(0x22f)](_0x1adcd9=>_0x1adcd9['innerHTML']=_0x1adcd9[_0x5f4412(0x1a4)]=='\x20'?_0x5f4412(0x1ed):_0x1adcd9[_0x5f4412(0x1a4)]),_0x3799bd[_0x5f4412(0x237)]('beforeend',_0x5f4412(0x1f3));});function _0x56f66f(_0x30e520){var _0x51c31e=_0x304f05;_0x41a846=!_0x41a846,_0x41a846?(_0x30e520[_0x51c31e(0x1e2)]['add']('chatbox--active'),_0x46f4da[_0x51c31e(0x238)][_0x51c31e(0x1e3)]=_0x51c31e(0x1dd)):(_0x30e520[_0x51c31e(0x1e2)][_0x51c31e(0x1c0)](_0x51c31e(0x215)),_0x46f4da['style'][_0x51c31e(0x1e3)]=_0x51c31e(0x21c));}function _0x858c2(){var _0x5a99da=_0x304f05,_0x2bd609=_0x3265cc[_0x5a99da(0x226)]('.chatbox__messages');_0x2bd609['scrollTop']=_0x2bd609[_0x5a99da(0x210)];}function _0xe400a1(){var _0x58b108=_0x304f05,_0x2532b2=_0x3265cc[_0x58b108(0x226)](_0x58b108(0x1c6));!_0x2532b2[_0x58b108(0x229)][_0x58b108(0x1e2)][_0x58b108(0x234)](_0x58b108(0x1b1))&&(html=_0x58b108(0x218),_0x2532b2=_0x57377a['querySelector'](_0x58b108(0x1c6)),_0x2532b2['innerHTML']=html+_0x2532b2[_0x58b108(0x1ba)]),_0x858c2();}function _0x53e50d(_0x3afd12){var _0xe0a9dd=_0x304f05;try{fetch('https://aiwvg3t87i.execute-api.ap-south-1.amazonaws.com/default/Blozum_ITC_backend',_0x3afd12)[_0xe0a9dd(0x1cb)](function(_0x26b4c0){var _0x709425=_0xe0a9dd;return _0x26b4c0[_0x709425(0x22c)]();})['then'](function(_0x2a069a){var _0x4e0e14=_0xe0a9dd,_0x224671=JSON['parse'](_0x2a069a);if(typeof _0x224671===_0x4e0e14(0x1f4)){var _0x471d71='<div\x20class=\x22messages__item\x20messages__item--visitor\x22><span\x20class=\x22message-content\x22>';for(var _0x33c4f9 in _0x224671){if(_0x224671[_0x4e0e14(0x23e)](_0x33c4f9)){if(_0x33c4f9===_0x4e0e14(0x1ce))_0x471d71=_0x471d71+_0x224671[_0x33c4f9];else _0x33c4f9!==_0x4e0e14(0x1ce)&&(_0x33c4f9===_0x4e0e14(0x1a8)&&(_0x1b9265=_0x4e0e14(0x1ef)),_0x471d71+='<br><strong>'+_0x33c4f9+'</strong>:\x20<a\x20href=\x22'+_0x224671[_0x33c4f9]+'\x22\x20target=\x22_blank\x22>'+_0x224671[_0x33c4f9]+'</a><br>');}else _0x471d71=_0x471d71+_0x224671[_0x33c4f9];}_0x471d71+=_0x4e0e14(0x1f6),chatmessage=_0x57377a['querySelector'](_0x4e0e14(0x1c6));const _0x51ba4a=document[_0x4e0e14(0x1e7)](_0x4e0e14(0x1a9));_0x51ba4a[_0x4e0e14(0x1c0)](),chatmessage['innerHTML']=_0x471d71+chatmessage['innerHTML'],_0xe400a1();}});}catch(_0x317c8e){console[_0xe0a9dd(0x1cc)](_0x317c8e);}_0x858c2();}async function _0x294e47(_0x45c573){var _0x3050fa=_0x304f05;_0x858c2();var _0x59143e=document[_0x3050fa(0x1e7)](_0x3050fa(0x1e8)),_0x13696b=_0x59143e[_0x3050fa(0x1ec)];if(_0x13696b==='')return _0x858c2();var _0x5681bf=_0x3050fa(0x23b)+_0x13696b+_0x3050fa(0x200);_0x4ec7e6['push']({'role':_0x3050fa(0x1b6),'content':_0x13696b});var _0x2c3385=_0x45c573[_0x3050fa(0x226)](_0x3050fa(0x1c6));_0x2c3385[_0x3050fa(0x1ba)]=_0x5681bf+_0x2c3385[_0x3050fa(0x1ba)],_0x2c3385[_0x3050fa(0x1ba)]=_0x3050fa(0x223)+_0x2c3385[_0x3050fa(0x1ba)];const _0x154d0a=document['getElementById'](_0x3050fa(0x1a9));_0x59143e[_0x3050fa(0x1ec)]='',console[_0x3050fa(0x1cc)]('chat_history_blz'),console[_0x3050fa(0x1cc)](_0x4ec7e6[0x0]);try{fetch('https://aiwvg3t87i.execute-api.ap-south-1.amazonaws.com/default/Blozum_ITC_backend',{'method':_0x3050fa(0x1fb),'headers':{'Content-Type':_0x3050fa(0x1ac),'x-api-key':_0x4c2f8b},'body':JSON[_0x3050fa(0x211)]({'message':_0x4ec7e6,'user':_0x2efce3})})[_0x3050fa(0x1cb)](function(_0x20ccf8){var _0x50b149=_0x3050fa;return _0x20ccf8[_0x50b149(0x22c)]();})[_0x3050fa(0x1cb)](function(_0x454fb0){var _0xc7582a=_0x3050fa;_0x2c3385=_0x45c573['querySelector'](_0xc7582a(0x1c6));try{var _0x152084=JSON['parse'](_0x454fb0);_0x154d0a[_0xc7582a(0x1c0)]();if(typeof _0x152084==='object'){var _0x160983=_0xc7582a(0x1f1);for(var _0x1f0338 in _0x152084){_0x152084['hasOwnProperty'](_0x1f0338)?(_0x1f0338===_0xc7582a(0x1ce)&&(_0x4ec7e6[_0xc7582a(0x23f)]({'role':_0xc7582a(0x1b6),'content':_0x152084[_0x1f0338]}),console['log']('chat\x20history:\x20'+_0x4ec7e6),_0x160983=_0x160983+_0x152084[_0x1f0338]),_0x1f0338!==_0xc7582a(0x1ce)&&(_0x160983+=_0xc7582a(0x1d7)+_0x1f0338+_0xc7582a(0x23a)+_0x152084[_0x1f0338]+_0xc7582a(0x1eb))):_0x160983=_0x160983+_0x152084[_0x1f0338];}_0x160983+=_0xc7582a(0x1f6),_0x2c3385=_0x45c573['querySelector'](_0xc7582a(0x1c6)),_0x2c3385[_0xc7582a(0x1ba)]=_0x160983+_0x2c3385[_0xc7582a(0x1ba)],_0xe400a1(),_0x59143e[_0xc7582a(0x1ec)]='';}}catch(_0x1efecd){_0x160983='',_0x154d0a[_0xc7582a(0x1c0)](),_0x2c3385=_0x45c573[_0xc7582a(0x226)](_0xc7582a(0x1c6)),_0x2c3385['innerHTML']=_0x160983+_0x2c3385[_0xc7582a(0x1ba)],_0xe400a1(),_0x59143e[_0xc7582a(0x1ec)]='';}});}catch(_0x50b2c1){console['error'](_0x50b2c1);}_0x858c2();}function _0x3d7a33(_0x298ba1){var _0x1392a6=_0x304f05;if(_0x298ba1===_0x1392a6(0x1ef))try{fetch(_0x1392a6(0x21f),{'method':_0x1392a6(0x1fb),'headers':{'Content-Type':_0x1392a6(0x1ac),'x-api-key':_0x4c2f8b},'body':JSON[_0x1392a6(0x211)]({'message':'👍','user':_0x2efce3})})[_0x1392a6(0x1cb)](function(_0xb6038){var _0x11e322=_0x1392a6;return _0xb6038[_0x11e322(0x22c)]();})['then'](function(_0x4ac5d3){var _0x5e55ad=_0x1392a6;console[_0x5e55ad(0x1cc)](_0x4ac5d3);});}catch(_0x156515){console[_0x1392a6(0x1cc)](_0x156515);}else try{fetch(_0x1392a6(0x21f),{'method':_0x1392a6(0x1fb),'headers':{'Content-Type':_0x1392a6(0x1ac),'x-api-key':_0x4c2f8b},'body':JSON[_0x1392a6(0x211)]({'message':'👎','user':_0x2efce3})})[_0x1392a6(0x1cb)](function(_0x595747){var _0x4dafea=_0x1392a6;return _0x595747[_0x4dafea(0x22c)]();})[_0x1392a6(0x1cb)](function(_0x3399ea){console['log'](_0x3399ea);});}catch(_0x1599e4){console[_0x1392a6(0x1cc)](_0x1599e4);}}function _0x4a9600(){var _0x597c95=_0x304f05;const _0xa44642=document[_0x597c95(0x1e7)](_0x597c95(0x23c)),_0x1db4e4=_0xa44642[_0x597c95(0x1ec)][_0x597c95(0x1c8)]();if(_0x1db4e4===''){_0x858c2();return;}const _0x3f94da=_0xd01a3b+'_'+_0x1db4e4;var _0x1b64de={'method':'POST','headers':{'Content-Type':_0x597c95(0x1ac),'x-api-key':_0x4c2f8b},'body':JSON[_0x597c95(0x211)]({'message':_0x3f94da,'user':_0x2efce3})};_0x53e50d(_0x1b64de),chatmessage=_0x3265cc['querySelector'](_0x597c95(0x1c6)),chatmessage[_0x597c95(0x1ba)]='<div\x20class=\x22messages__item\x20messages__item--visitor\x22\x20id=\x22animation_dots\x22><div\x20class=\x22typing-animation\x22><span\x20class=\x22blz_s\x22></span><span\x20class=\x22blz_s\x22></span><span\x20class=\x22blz_s\x22></span></div></div>'+chatmessage[_0x597c95(0x1ba)],_0x858c2(),_0xa44642[_0x597c95(0x1ec)]='';return;}function _0x4e51ea(_0x3ddb04){var _0x1ddb3c=_0x304f05,_0xbed3d0='';_0x923bf8[_0x1ddb3c(0x1b5)]()[_0x1ddb3c(0x1b7)]()[_0x1ddb3c(0x22f)](function(_0x1afc17,_0x3e2dac){var _0x594c81=_0x1ddb3c;if(_0x1afc17[_0x594c81(0x203)]===_0x594c81(0x1e0))_0xbed3d0+=_0x594c81(0x1f1)+_0x1afc17[_0x594c81(0x1fd)]+_0x594c81(0x1f6);else _0x1afc17[_0x594c81(0x203)]===_0x594c81(0x1c2)&&(_0xbed3d0+=_0x594c81(0x23b)+_0x1afc17['message']+_0x594c81(0x200));});var _0x20da71=_0x3ddb04[_0x1ddb3c(0x226)](_0x1ddb3c(0x1c6));_0x20da71[_0x1ddb3c(0x1ba)]=_0xbed3d0+_0x20da71['innerHTML'];return;}function _0x148911(_0x443c7d){var _0x3652f9=_0x304f05;_0x443c7d['preventDefault']();let _0x5ead6e=document['getElementById'](_0x3652f9(0x206))[_0x3652f9(0x1ec)],_0x2d3323=document[_0x3652f9(0x1e7)](_0x3652f9(0x213))[_0x3652f9(0x1ec)],_0x809890=document[_0x3652f9(0x1e7)]('blz_ticket_email')['value'],_0x466040=document[_0x3652f9(0x1e7)](_0x3652f9(0x1f2))[_0x3652f9(0x1ec)],_0x43378e=document[_0x3652f9(0x1e7)](_0x3652f9(0x1c5))[_0x3652f9(0x1ec)],_0x489651=document['getElementById']('blz_ticket_last_name')[_0x3652f9(0x1ec)],_0x2dc4ab={'message':'yes_open_support_ticket_blozumdabest01834082340293','user':_0x2efce3,'data':{'subject':_0x5ead6e,'description':_0x2d3323,'email':_0x809890,'mobile_number':_0x466040,'first_name':_0x43378e,'last_name':_0x489651}};var _0x29351c={'method':_0x3652f9(0x1fb),'headers':{'Content-Type':_0x3652f9(0x1ac),'x-api-key':_0x4c2f8b},'body':JSON[_0x3652f9(0x211)](_0x2dc4ab)};chatmessage=_0x3265cc[_0x3652f9(0x226)](_0x3652f9(0x1c6)),chatmessage[_0x3652f9(0x1ba)]='<div\x20class=\x22messages__item\x20messages__item--visitor\x22\x20id=\x22animation_dots\x22><div\x20class=\x22typing-animation\x22><span\x20class=\x22blz_s\x22></span><span\x20class=\x22blz_s\x22></span><span\x20class=\x22blz_s\x22></span></div></div>'+chatmessage[_0x3652f9(0x1ba)],_0x53e50d(_0x29351c);}function _0x2c27ad(_0x4f6cff){var _0x5e5739=_0x304f05;_0x3265cc=document[_0x5e5739(0x226)](_0x5e5739(0x1cd));var _0x43f344=_0x57377a[_0x5e5739(0x226)](_0x5e5739(0x1c6)),_0x4bc4cd=_0x5e5739(0x23b)+_0x4f6cff+_0x5e5739(0x200);_0x43f344=_0x57377a[_0x5e5739(0x226)](_0x5e5739(0x1c6)),_0x43f344[_0x5e5739(0x1ba)]=_0x4bc4cd+_0x43f344[_0x5e5739(0x1ba)],_0x858c2(),_0x4bc4cd=_0x5e5739(0x220),_0x43f344=_0x57377a[_0x5e5739(0x226)](_0x5e5739(0x1c6)),_0x43f344[_0x5e5739(0x1ba)]=_0x4bc4cd+_0x43f344[_0x5e5739(0x1ba)],_0x858c2();}async function _0x440116(_0x18b711){var _0xf526d2=_0x304f05,_0x5652ad=_0x3265cc[_0xf526d2(0x226)](_0xf526d2(0x1c3));_0x3265cc=document[_0xf526d2(0x226)](_0xf526d2(0x1cd));var _0x1cd614=_0xf526d2(0x209),_0x334cc8='',_0x100ed5=_0x57377a['querySelector'](_0xf526d2(0x1c6));if(_0x18b711==='order_details'){_0xd01a3b='order_details';const _0x43b6f9=_0x2c27ad(_0xf526d2(0x1ad));}else{if(_0x18b711===_0xf526d2(0x1bf)){_0xd01a3b=_0xf526d2(0x1bf);const _0x2b3566=_0x2c27ad(_0xf526d2(0x1dc));}else{if(_0x18b711===_0xf526d2(0x1f8)){_0xd01a3b='get_invoice';const _0x3a95a3=_0x2c27ad(_0xf526d2(0x1ca));}else{if(_0x18b711===_0xf526d2(0x1d2)){_0xd01a3b=_0xf526d2(0x1d2);const _0x345137=_0x2c27ad(_0xf526d2(0x1f9));}else{if(_0x18b711==='get_designs'){_0xd01a3b='get_designs';const _0x3ba6ec=_0x2c27ad(_0xf526d2(0x1fc));}else{if(_0x18b711===_0xf526d2(0x1b2))_0x334cc8='<div\x20class=\x22messages__item\x20messages__item--operator\x22>Create\x20Support\x20Ticket</div>',_0x100ed5=_0x57377a[_0xf526d2(0x226)](_0xf526d2(0x1c6)),_0x100ed5['innerHTML']=_0x334cc8+_0x100ed5[_0xf526d2(0x1ba)],_0x334cc8=_0xf526d2(0x208),_0x100ed5=_0x57377a['querySelector']('.chatbox__messages'),_0x100ed5['innerHTML']=_0x334cc8+_0x100ed5[_0xf526d2(0x1ba)];else{if(_0x18b711===_0xf526d2(0x236)){_0x1cd614=_0xf526d2(0x1d3),_0x334cc8='<div\x20class=\x22messages__item\x20messages__item--operator\x22>No</div>',_0x100ed5=_0x57377a[_0xf526d2(0x226)](_0xf526d2(0x1c6)),_0x100ed5[_0xf526d2(0x1ba)]=_0x334cc8+_0x100ed5[_0xf526d2(0x1ba)];var _0x538949={'method':_0xf526d2(0x1fb),'headers':{'Content-Type':_0xf526d2(0x1ac),'x-api-key':_0x4c2f8b},'body':JSON['stringify']({'message':_0x1cd614,'user':_0x2efce3})};_0x53e50d(_0x538949);}}}}}}}}window[_0x304f05(0x20a)]=_0x440116,window[_0x304f05(0x1ea)]=_0x4a9600,window['homeButtonBLZ']=_0xe400a1,window[_0x304f05(0x21d)]=_0x148911,window[_0x304f05(0x20b)]=_0x436992,window[_0x304f05(0x228)]=_0x3d7a33;}
+		function initializeChatbot(apiKey) {
+			var uuid = localStorage.getItem("uuid");
+			var ticket_created = "False";
+			if (!uuid) {
+				uuid = uuidv4();
+				localStorage.setItem("uuid", uuid);
+			}
+			if (!document.querySelector(".container")) {
+				var container = document.createElement("div");
+				container.className = "container";
+
+				var chatbox = document.createElement("div");
+				chatbox.className = "chatbox";
+
+				var supportDiv = document.createElement("div");
+				supportDiv.className = "chatbox__support";
+
+				var headerDiv = document.createElement("div");
+				headerDiv.className = "chatbox__header";
+
+				var imageDiv = document.createElement("div");
+				imageDiv.className = "chatbox__image--header";
+				var svgElement = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"svg"
+				);
+				svgElement.setAttribute("version", "1.0");
+				svgElement.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+				svgElement.setAttribute("width", "50px");
+				svgElement.setAttribute("height", "50px");
+				svgElement.setAttribute("viewBox", "0 0 584 584");
+				svgElement.setAttribute("preserveAspectRatio", "xMidYMid meet");
+				svgElement.classList.add("rounded-svg");
+				var gElement = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"g"
+				);
+				gElement.setAttribute(
+					"transform",
+					"translate(0.000000,584.000000) scale(0.100000,-0.100000)"
+				);
+				gElement.setAttribute("fill", "#000");
+				gElement.setAttribute("stroke", "#000");
+				var path1Element = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"path"
+				);
+				path1Element.setAttribute(
+					"d",
+					"M0 2920 l0 -2920 2920 0 2920 0 0 2920 0 2920 -2920 0 -2920 0 0 -2920z m1000 678 l0 -743 32 53 c63 108 189 223 318 287 174 88 375 116 564 80 315 -60 584 -314 667 -630 29 -113 29 -297 1 -417 -70 -289 -319 -545 -607 -624 -81 -21 -297 -30 -377 -15 -219 43 -430 175 -544 342 l-49 71 -5 -193 -5 -193 -55 -1 -55 0 -3 1363 -2 1362 60 0 60 0 0 -742z m2070 -360 c0 -1202 -1 -1165 57 -1285 32 -64 137 -174 196 -204 69 -36 148 -59 199 -59 l48 0 0 -45 c0 -25 -1 -48 -2 -52 -4 -11 -94 -4 -161 13 -105 25 -185 72 -273 159 -57 57 -90 99 -113 145 -69 143 -65 56 -68 1303 l-4 1127 61 0 60 0 0 -1102z m1800 7 c0 -3 -87 -148 -194 -322 -596 -979 -726 -1194 -726 -1198 0 -3 207 -5 461 -5 l460 0 -3 -52 -3 -53 -557 -2 c-378 -1 -558 1 -558 8 0 9 58 106 420 704 54 88 188 310 298 493 l202 332 -415 0 -415 0 0 50 0 50 515 0 c283 0 515 -2 515 -5z"
+				);
+				var path2Element = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"path"
+				);
+				path2Element.setAttribute(
+					"d",
+					"M1597 3175 c-94 -18 -220 -77 -299 -139 -132 -105 -243 -271 -284 -426 -24 -88 -24 -272 0 -360 55 -209 217 -404 414 -500 178 -87 415 -94 595 -18 168 70 330 228 402 393 45 101 59 172 59 305 0 187 -40 312 -145 453 -100 133 -266 248 -407 283 -89 22 -245 26 -335 9z"
+				);
+				gElement.appendChild(path1Element);
+				gElement.appendChild(path2Element);
+				svgElement.appendChild(gElement);
+				imageDiv.appendChild(svgElement);
+
+				var contentDiv = document.createElement("div");
+				contentDiv.className = "chatbox__content--header";
+
+				var heading = document.createElement("h4");
+				heading.className = "chatbox__heading--header";
+				heading.textContent = "Blozum";
+
+				var description = document.createElement("p");
+				description.className = "chatbox__description--header";
+				description.textContent = "Classmate Notebooks Customer Support";
+
+				contentDiv.appendChild(heading);
+				contentDiv.appendChild(description);
+
+				headerDiv.appendChild(imageDiv);
+				headerDiv.appendChild(contentDiv);
+
+				var messagesDiv = document.createElement("div");
+				messagesDiv.className = "chatbox__messages";
+				var innerDiv = document.createElement("div");
+				messagesDiv.appendChild(innerDiv);
+
+				var footerDiv = document.createElement("div");
+				footerDiv.className = "chatbox__footer";
+
+				var input = document.createElement("input");
+				input.type = "text";
+				input.id = "BLZ_input";
+				input.placeholder = "Ask me anything about Classmate...";
+				input.style.backgroundColor = "#fff";
+				input.style.margin = 0;
+				input.maxLength = 250;
+
+
+				const blozum = document.createElement("div");
+				blozum.className = "blozum";
+				blozum.innerHTML =
+					"Powered by <strong><a class='link' href='https://blozum.com/'>Blozum</a></strong>";
+
+				var sendButton = document.createElement("button");
+				sendButton.className = "chatbox__send--footer send__button_BLZ";
+
+				var sendIconSVG = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+				sendIconSVG.setAttribute("viewBox", "-4.8 -4.8 33.60 33.60");
+				sendIconSVG.setAttribute("width", "40px");
+				sendIconSVG.setAttribute("height", "40px");
+				sendIconSVG.setAttribute("fill", "none");
+				sendIconSVG.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+				sendIconSVG.setAttribute("stroke", "#");
+				sendIconSVG.setAttribute("stroke-width", "0.00024000000000000003");
+
+				var sendPath = document.createElementNS("http://www.w3.org/2000/svg", "path");
+				sendPath.setAttribute("fill-rule", "evenodd");
+				sendPath.setAttribute("clip-rule", "evenodd");
+				sendPath.setAttribute("d", "M1.265 4.42619C1.04293 2.87167 2.6169 1.67931 4.05323 2.31397L21.8341 10.1706C23.423 10.8727 23.423 13.1273 21.8341 13.8294L4.05323 21.686C2.6169 22.3207 1.04293 21.1283 1.265 19.5738L1.99102 14.4917C2.06002 14.0087 2.41458 13.6156 2.88791 13.4972L8.87688 12L2.88791 10.5028C2.41458 10.3844 2.06002 9.99129 1.99102 9.50829L1.265 4.42619ZM21.0257 12L3.2449 4.14335L3.89484 8.69294L12.8545 10.9328C13.9654 11.2106 13.9654 12.7894 12.8545 13.0672L3.89484 15.3071L3.2449 19.8566L21.0257 12Z");
+				sendPath.setAttribute("fill", "#fff");
+
+				sendIconSVG.appendChild(sendPath);
+				sendButton.appendChild(sendIconSVG);
+
+
+				// footerDiv.appendChild(homeButton);
+				footerDiv.appendChild(input);
+				footerDiv.appendChild(sendButton);
+				footerDiv.appendChild(blozum);
+
+				supportDiv.appendChild(headerDiv);
+				supportDiv.appendChild(messagesDiv);
+				supportDiv.appendChild(footerDiv);
+				supportDiv.appendChild(blozum);
+
+				var buttonDiv = document.createElement("div");
+				buttonDiv.className = "chatbox__button";
+				var button = document.createElement("button");
+				button.className = "button-35";
+				button.id = "chat_button";
+
+				var svgElement = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"svg"
+				);
+				svgElement.setAttribute("version", "1.0");
+				svgElement.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+				svgElement.setAttribute("width", "50px");
+				svgElement.setAttribute("height", "50px");
+				svgElement.setAttribute("viewBox", "0 0 584 584");
+				svgElement.setAttribute("preserveAspectRatio", "xMidYMid meet");
+				svgElement.classList.add("rounded-svg");
+				var gElement = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"g"
+				);
+				gElement.setAttribute(
+					"transform",
+					"translate(0.000000,584.000000) scale(0.100000,-0.100000)"
+				);
+				gElement.setAttribute("fill", "#3cb043");
+				gElement.setAttribute("stroke", "#000");
+				var path1Element = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"path"
+				);
+				path1Element.setAttribute(
+					"d",
+					"M0 2920 l0 -2920 2920 0 2920 0 0 2920 0 2920 -2920 0 -2920 0 0 -2920z m1000 678 l0 -743 32 53 c63 108 189 223 318 287 174 88 375 116 564 80 315 -60 584 -314 667 -630 29 -113 29 -297 1 -417 -70 -289 -319 -545 -607 -624 -81 -21 -297 -30 -377 -15 -219 43 -430 175 -544 342 l-49 71 -5 -193 -5 -193 -55 -1 -55 0 -3 1363 -2 1362 60 0 60 0 0 -742z m2070 -360 c0 -1202 -1 -1165 57 -1285 32 -64 137 -174 196 -204 69 -36 148 -59 199 -59 l48 0 0 -45 c0 -25 -1 -48 -2 -52 -4 -11 -94 -4 -161 13 -105 25 -185 72 -273 159 -57 57 -90 99 -113 145 -69 143 -65 56 -68 1303 l-4 1127 61 0 60 0 0 -1102z m1800 7 c0 -3 -87 -148 -194 -322 -596 -979 -726 -1194 -726 -1198 0 -3 207 -5 461 -5 l460 0 -3 -52 -3 -53 -557 -2 c-378 -1 -558 1 -558 8 0 9 58 106 420 704 54 88 188 310 298 493 l202 332 -415 0 -415 0 0 50 0 50 515 0 c283 0 515 -2 515 -5z"
+				);
+				var path2Element = document.createElementNS(
+					"http://www.w3.org/2000/svg",
+					"path"
+				);
+				path2Element.setAttribute(
+					"d",
+					"M1597 3175 c-94 -18 -220 -77 -299 -139 -132 -105 -243 -271 -284 -426 -24 -88 -24 -272 0 -360 55 -209 217 -404 414 -500 178 -87 415 -94 595 -18 168 70 330 228 402 393 45 101 59 172 59 305 0 187 -40 312 -145 453 -100 133 -266 248 -407 283 -89 22 -245 26 -335 9z"
+				);
+				gElement.appendChild(path1Element);
+				gElement.appendChild(path2Element);
+				svgElement.appendChild(gElement);
+				button.appendChild(svgElement);
+				buttonDiv.appendChild(button);
+				chatbox.appendChild(supportDiv);
+				chatbox.appendChild(buttonDiv);
+
+				container.appendChild(chatbox);
+
+				// Append the container to the document body
+				document.body.appendChild(container);
+			}
+			var openButton = document.querySelector(".chatbox__button");
+			var chatBox = document.querySelector(".chatbox__support");
+			var sendButton = document.querySelector(".send__button_BLZ");
+			var chat_button = document.getElementById("chat_button");
+			homeButtonBLZ(); // showing the menu programmatically
+			var chat_history_blz = [];
+			var messages = [];
+			var selectedOption = `none`;
+
+			openButton.addEventListener("click", () => toggleState(chatBox));
+
+			document.querySelector(".send__button_BLZ").addEventListener("click", () => onSendButton(chatBox));
+
+			var node = chatBox.querySelector("input");
+			node.addEventListener("keyup", ({ key }) => {
+				if (key === "Enter") {
+					document.querySelector(".send__button_BLZ").click();
+				}
+			});
+
+			var state = false;
+			document.querySelectorAll('.link').forEach(link => {
+				link.innerHTML = '<div><span>' + link.textContent.trim().split('').join('</span><span>') + '</span></div>'
+				link.querySelectorAll('span').forEach(s => s.innerHTML = s.textContent == ' ' ? '&nbsp;' : s.textContent)
+				link.insertAdjacentHTML('beforeend', '<div><svg preserveAspectRatio="none" viewBox="0 0 192 5"><path d="M191.246 4H129C129 4 127.781 4.00674 127 4C114.767 3.89447 108.233 1 96 1C83.7669 1 77.2327 3.89447 65 4C64.219 4.00674 63 4 63 4H0.751923" /></svg></div>')
+			});
+
+
+			function toggleState(chatbox) {
+				state = !state;
+
+				if (state) {
+					chatbox.classList.add("chatbox--active");
+					chat_button.style.backgroundColor = "black";
+				} else {
+					chatbox.classList.remove("chatbox--active");
+					chat_button.style.backgroundColor = "white";
+				}
+			}
+			function scrollChatToBottom() {
+				// Get the chat messages container
+				var chatMessages = chatBox.querySelector(".chatbox__messages");
+
+				// Scroll to the bottom
+				chatMessages.scrollTop = chatMessages.scrollHeight;
+			}
+
+			function homeButtonBLZ() {
+				var chatmessage = chatBox.querySelector(".chatbox__messages");
+				if (!chatmessage.firstChild.classList.contains("visitor_menu_BLZ")) {
+					html = `<div class="visitor_menu_BLZ">
+	    <div class="flex-container">
+	        <button class="button-3" id="order_details" onclick="selectOption('order_details')">Order Details</button>
+	        <button class="button-3" id="refund_status" onclick="selectOption('refund_status')">Refund Status</button>
+	    </div>
+	    <div style="height: 5px;"></div>
+	    <div class="flex-container">
+	        <button class="button-3" id="get_invoice" onclick="selectOption('get_invoice')">Get Invoice</button>
+	        <button class="button-3" id="track_order" onclick="selectOption('track_order')">Track Order</button>
+	    </div>
+	    <div style="height: 5px;"></div>
+	    <div class="flex-container">
+	        <button class="button-3" id="yes_open_support_ticket_blz12345" onclick="selectOption('open_support_ticket')">Create Support Ticket</button>
+	    </div>
+	</div>`;
+					chatmessage = chatbox.querySelector(".chatbox__messages");
+					chatmessage.innerHTML = html + chatmessage.innerHTML;
+				}
+				scrollChatToBottom();
+			}
+
+			function fetchChatMessage(request_options) {
+				try {
+					fetch(
+						"https://aiwvg3t87i.execute-api.ap-south-1.amazonaws.com/default/Blozum_ITC_backend",
+						request_options
+					)
+						.then(function (response) {
+							return response.text();
+						})
+						.then(function (response) {
+							var jsonData = JSON.parse(response);
+							if (typeof jsonData === "object") {
+								var html = `<div class="messages__item messages__item--visitor"><span class="message-content">`
+								for (var key in jsonData) {
+									if (jsonData.hasOwnProperty(key)) {
+										if (key === 'messages') {
+											html = html + jsonData[key];
+										}
+										else if (key !== 'messages') {
+											if (key === "Ticket URL") {
+												ticket_created = "True";
+											}
+											html += `<br><strong>${key}</strong>: <a href="${jsonData[key]}" target="_blank">${jsonData[key]}</a><br>`;
+										}
+									}
+									else {
+										html = html + jsonData[key];
+									}
+								}
+								html += `</span>
+	             <div class="message-reaction">
+	               <button class="thumb-up" onclick="handleReaction('True')">👍</button>
+	               <button class="thumb-down" onclick="handleReaction('False')">👎</button>
+	             </div></div>`;
+								chatmessage = chatbox.querySelector(".chatbox__messages");
+								const dotss = document.getElementById("animation_dots");
+								dotss.remove();
+								chatmessage.innerHTML = html + chatmessage.innerHTML;
+								homeButtonBLZ();  // Clicking the home_button_BLZ_1 button programmatically
+							}
+						});
+				}
+				catch (e) {
+					console.log(e);
+				}
+				scrollChatToBottom();
+			}
+			async function onSendButton(chatbox) {
+				scrollChatToBottom();
+				var textField = document.getElementById("BLZ_input");
+				var text1 = textField.value;
+				if (text1 === "") {
+					return scrollChatToBottom();
+				}
+				var html =
+					'<div class="messages__item messages__item--operator">' +
+					text1 +
+					"</div>";
+				// update chat_history_blz here. 
+				chat_history_blz.push({ "role": "user", "content": text1 });
+				var chatmessage = chatbox.querySelector(".chatbox__messages");
+				chatmessage.innerHTML = html + chatmessage.innerHTML;
+				chatmessage.innerHTML = '<div class="messages__item messages__item--visitor" id="animation_dots"><div class="typing-animation"><span class="blz_s"></span><span class="blz_s"></span><span class="blz_s"></span></div></div>' + chatmessage.innerHTML;
+				const dotss = document.getElementById("animation_dots");
+				textField.value = "";
+				console.log("chat_history_blz");
+				console.log(chat_history_blz[0]);
+
+				try {
+					fetch(
+						"https://aiwvg3t87i.execute-api.ap-south-1.amazonaws.com/default/Blozum_ITC_backend",
+						{
+							method: "POST",
+							headers: {
+								"Content-Type": "application/json",
+								"x-api-key": apiKey,
+							},
+							body: JSON.stringify({
+								message: chat_history_blz,
+								user: uuid,
+							}),
+						}
+					)
+						.then(function (response) {
+							return response.text();
+						})
+						.then(function (botMessage) {
+							chatmessage = chatbox.querySelector(".chatbox__messages");
+							try {
+								var jsonData = JSON.parse(botMessage);
+								dotss.remove();
+								if (typeof jsonData === "object") {
+									var html = `<div class="messages__item messages__item--visitor"><span class="message-content">`
+									for (var key in jsonData) {
+										if (jsonData.hasOwnProperty(key)) {
+											if (key === 'messages') {
+												// update chat_history here.
+												chat_history_blz.push({ "role": "user", "content": jsonData[key] });
+												console.log("chat history: " + chat_history_blz)
+												html = html + jsonData[key];
+											}
+											if (key !== 'messages') {
+												html += `<strong>${key}</strong>: ${jsonData[key]}<br>`;
+											}
+										}
+										else {
+											html = html + jsonData[key];
+										}
+									}
+									html += `</span>
+	             <div class="message-reaction">
+	               <button class="thumb-up" onclick="handleReaction('True')">👍</button>
+	               <button class="thumb-down" onclick="handleReaction('False')">👎</button>
+	             </div></div>`;
+									chatmessage = chatbox.querySelector(".chatbox__messages");
+									chatmessage.innerHTML = html + chatmessage.innerHTML;
+									homeButtonBLZ();  // Clicking the home_button_BLZ_1 button programmatically
+									textField.value = "";
+								}
+							}
+							catch (error) {
+								// Regular bot message
+								html = "";
+								dotss.remove();
+								chatmessage = chatbox.querySelector(".chatbox__messages");
+								chatmessage.innerHTML = html + chatmessage.innerHTML;
+								homeButtonBLZ();  // Clicking the home_button_BLZ_1 button programmatically
+								textField.value = "";
+							}
+						});
+				}
+				catch (e) {
+					console.error(e);
+				}
+				scrollChatToBottom();
+			}
+						function handleReaction(isPositive) {
+				if (isPositive === "True") {
+					try {
+						fetch(
+							"https://aiwvg3t87i.execute-api.ap-south-1.amazonaws.com/default/Blozum_ITC_backend",
+							{
+								method: "POST",
+								headers: {
+									"Content-Type": "application/json",
+									"x-api-key": apiKey,
+								},
+								body: JSON.stringify({
+									message: "👍",
+									user: uuid,
+								}),
+							}
+						)
+							.then(function (response) {
+								return response.text();
+							})
+							.then(function (botMessage) { console.log(botMessage); })
+					} catch (error) {
+						console.log(error);
+					}
+				} else {
+					try {
+						fetch(
+							"https://aiwvg3t87i.execute-api.ap-south-1.amazonaws.com/default/Blozum_ITC_backend",
+							{
+								method: "POST",
+								headers: {
+									"Content-Type": "application/json",
+									"x-api-key": apiKey,
+								},
+								body: JSON.stringify({
+									message: "👎",
+									user: uuid,
+								}),
+							}
+						)
+							.then(function (response) {
+								return response.text();
+							})
+							.then(function (botMessage) { console.log(botMessage); })
+					} catch (error) {
+						console.log(error);
+					}
+				}
+			}
+
+			function submitOrder() {
+				const orderIDInput = document.getElementById("order_number");
+				const orderID = orderIDInput.value.trim();
+
+				if (orderID === "") {
+					scrollChatToBottom();
+					return;
+				}
+
+				const requestString = `${selectedOption}_${orderID}`;
+
+				var requestOptions = {
+					method: "POST",
+					headers: {
+						"Content-Type": "application/json",
+						"x-api-key": apiKey,
+					},
+					body: JSON.stringify({
+						message: requestString,
+						user: uuid,
+					}),
+				};
+
+				// Send the request to the backend
+				fetchChatMessage(requestOptions);
+				chatmessage = chatBox.querySelector(".chatbox__messages");
+				chatmessage.innerHTML = '<div class="messages__item messages__item--visitor" id="animation_dots"><div class="typing-animation"><span class="blz_s"></span><span class="blz_s"></span><span class="blz_s"></span></div></div>' + chatmessage.innerHTML;
+				scrollChatToBottom();
+				// Clear the input field
+				orderIDInput.value = "";
+				return;
+			}
+			function updateChatText(chatbox) {
+				var html = "";
+				messages
+					.slice()
+					.reverse()
+					.forEach(function (item, index) {
+						if (item.name === "Blozum") {
+							html +=
+								'<div class="messages__item messages__item--visitor"><span class="message-content">' +
+								item.message +
+								`</span>
+	             <div class="message-reaction">
+	               <button class="thumb-up" onclick="handleReaction('True')">👍</button>
+	               <button class="thumb-down" onclick="handleReaction('False')">👎</button>
+	             </div></div>`;
+						} else if (item.name === "User") {
+							html +=
+								'<div class="messages__item messages__item--operator">' +
+								item.message +
+								"</div>";
+						}
+					});
+				var chatmessage = chatbox.querySelector(".chatbox__messages");
+				chatmessage.innerHTML = html + chatmessage.innerHTML;
+				return;
+			}
+
+			function BLZ_supp_ticket(event) {
+				event.preventDefault();
+				let subject = document.getElementById('blz_ticket_subject').value;
+				let description = document.getElementById('blz_ticket_description').value;
+				let email = document.getElementById('blz_ticket_email').value;
+				let mobile_number = document.getElementById('blz_ticket_mobile_number').value;
+				let first_name = document.getElementById('blz_ticket_first_name').value;
+				let last_name = document.getElementById('blz_ticket_last_name').value;
+
+				let payload = {
+					message: "yes_open_support_ticket_blozumdabest01834082340293",
+					user: uuid,
+					data: {
+						subject: subject,
+						description: description,
+						email: email,
+						mobile_number: mobile_number,
+						first_name: first_name,
+						last_name: last_name,
+					}
+				};
+
+				var requestOptions = {
+					method: "POST",
+					headers: {
+						"Content-Type": "application/json",
+						"x-api-key": apiKey,
+					},
+					body: JSON.stringify(payload),
+				};
+				chatmessage = chatBox.querySelector(".chatbox__messages");
+				chatmessage.innerHTML = '<div class="messages__item messages__item--visitor" id="animation_dots"><div class="typing-animation"><span class="blz_s"></span><span class="blz_s"></span><span class="blz_s"></span></div></div>' + chatmessage.innerHTML;
+				fetchChatMessage(requestOptions);
+			}
+
+			function retrieveOrderID(user_msg) {
+				chatBox = document.querySelector(".chatbox__support");
+				var chatmessage = chatbox.querySelector(".chatbox__messages");
+				var html = '<div class="messages__item messages__item--operator">' + user_msg + '</div>';
+				chatmessage = chatbox.querySelector(".chatbox__messages");
+				chatmessage.innerHTML = html + chatmessage.innerHTML;
+				scrollChatToBottom();
+				html = `<div class="messages__item messages__item--visitor"><form style="position: relative;"><input type="text" required id="order_number" maxlength="20" style="width:100%;" placeholder="Enter Order ID" alt="Please enter OrderID"></form><button class='button-3' onClick='submitOrder()' style='background: -webkit-linear-gradient(left, #F58698, #ffc3a0);'>Submit</button></div>`;
+				chatmessage = chatbox.querySelector(".chatbox__messages");
+				chatmessage.innerHTML = html + chatmessage.innerHTML;
+				scrollChatToBottom();
+			}
+			async function selectOption(option) {
+				var textField1 = chatBox.querySelector("input");
+				chatBox = document.querySelector(".chatbox__support");
+				var Option1 = "Yes123";
+				var html = "";
+				var chatmessage = chatbox.querySelector(".chatbox__messages");
+				if (option === "order_details") {
+					selectedOption = `order_details`;
+					const orderID = retrieveOrderID("Order Details");
+				}
+				else if (option === "refund_status") {
+					selectedOption = `refund_status`;
+					const orderID = retrieveOrderID("Refund Status");
+				}
+				else if (option === "get_invoice") {
+					selectedOption = `get_invoice`;
+					const orderID = retrieveOrderID("Get Invoice");
+				}
+				else if (option === "track_order") {
+					selectedOption = `track_order`;
+					const orderID = retrieveOrderID("Track Order");
+				}
+				else if (option === "get_designs") {
+					selectedOption = `get_designs`;
+					const orderID = retrieveOrderID("Get Designs");
+				}
+				else if (option === "open_support_ticket") {
+					html = '<div class="messages__item messages__item--operator">Create Support Ticket</div>';
+					chatmessage = chatbox.querySelector(".chatbox__messages");
+					chatmessage.innerHTML = html + chatmessage.innerHTML;
+					html = `
+							<div class="messages__item messages__item--visitor" style="width: 100%">
+								<form onsubmit="return BLZ_supp_ticket(event);">
+									<input type="text" required id="blz_ticket_first_name" style="width:100%;" placeholder="First name *" alt="First Name">
+									<input type="text" required id="blz_ticket_last_name" style="width:100%;" placeholder="Last Name *" alt="Last Name">
+									<input type="email" required id="blz_ticket_email" style="width:100%;" placeholder="Enter Email *">
+									<input type="text" required id="blz_ticket_mobile_number" style="width:100%;" placeholder="Enter mobile number *" alt="Mobile Number">
+									<input type="text" required placeholder="Subject *" id="blz_ticket_subject" style="width:100%;">
+									<input type="text" required id="blz_ticket_description" placeholder="Enter Description *" style="width:100%;">
+									<button class='button-3' onClick="BLZ_supp_ticket(event);" style='background: -webkit-linear-gradient(left, #F58698, #ffc3a0);'>Submit</button>
+								</form>
+							</div>
+						`;
+					chatmessage = chatbox.querySelector(".chatbox__messages");
+					chatmessage.innerHTML = html + chatmessage.innerHTML;
+
+				}
+				else if (option === "dont_open_support_ticket") {
+					Option1 = "no_donot_open_support_ticket_blozumdabest82340978294587";
+					html =
+						'<div class="messages__item messages__item--operator">No</div>';
+					chatmessage = chatbox.querySelector(".chatbox__messages");
+					chatmessage.innerHTML = html + chatmessage.innerHTML;
+					var requestOptions = {
+						method: "POST",
+						headers: {
+							"Content-Type": "application/json",
+							"x-api-key": apiKey,
+						},
+						body: JSON.stringify({
+							message: Option1,
+							user: uuid,
+						}),
+					};
+					fetchChatMessage(requestOptions);
+				}
+			}
+			window.selectOption = selectOption;
+			window.submitOrder = submitOrder;
+			window.homeButtonBLZ = homeButtonBLZ;
+			window.BLZ_supp_ticket = BLZ_supp_ticket;
+			window.sendButton = sendButton;
+			window.handleReaction = handleReaction;
+		}
