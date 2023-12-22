@@ -16,7 +16,7 @@
 @media only screen and (min-width: 801px) {
     .chatbox {
         width: 100%;
-        height: 90%;
+        height: 88%;
     }
                                         .container {
                                             right: 0%;
@@ -26,7 +26,6 @@
                                                                                                 .chatbox__button {
                                                                                                     right: 35px;
                                                                                                     bottom: 40px;
-                                                                                                    transform: translateX(-5%);
                                                                                                 }
 }
 
