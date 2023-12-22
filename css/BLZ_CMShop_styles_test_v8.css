@@ -16,12 +16,12 @@
 @media only screen and (min-width: 801px) {
     .chatbox {
         width: 100%;
+        transform: translateX(-5%);
         height: 90%;
     }
                                         .container {
                                             right: 0%;
-                                            transform: translateX(-5%);
-                                            width: 35%;
+                                            width: 33%;
                                         }
                                                                                                 .chatbox__button {
                                                                                                     right: 35px;
@@ -32,7 +32,7 @@
 @media only screen and (min-width: 601px) and (max-width:800px) {
     .chatbox {
         width: 100%;
-        height: 90%;
+        height: 80%;
     }
                                 .container {
                                     right: 0%;
@@ -41,7 +41,7 @@
                                 }
                                 .chatbox__button {
                                     right: 30px;
-                                    bottom: 35px;
+                                    bottom: 30px;
                                 }
 }
 
@@ -221,7 +221,7 @@ bottom: 18px;
     opacity: 0;
     transition: .5s ease-in-out;
     background: #fff;
-    height: 87%;
+    height: 100%;
     width: 100%;
     box-shadow: 0 0 15px rgba(0, 0, 0, .1);
     border-radius: 20px 20px 0
