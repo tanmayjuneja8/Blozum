@@ -68,6 +68,9 @@
     display: flex;
     z-index: 999;
     position: fixed;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s, visibility 0.5s;
     bottom: 20px;
     left: 50%;
     transform: translateX(-5%);
@@ -75,7 +78,10 @@
     margin: 0 auto;
     height: 100%;
 }
-
+.container.visible {
+    opacity: 1;
+    visibility: visible;
+}
 .button-3,
 .button-35 {
     display: inline-flex;
