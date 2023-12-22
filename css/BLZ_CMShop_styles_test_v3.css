@@ -65,7 +65,7 @@
 }
 
 .container {
-    display: none;
+    display: flex;
     z-index: 999;
     position: fixed;
     opacity: 0;
@@ -78,8 +78,8 @@
     margin: 0 auto;
     height: 100%;
 }
+
 .container.visible {
-    display: flex;
     opacity: 1;
     visibility: visible;
 }
