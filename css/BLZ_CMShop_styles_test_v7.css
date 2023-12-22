@@ -39,10 +39,10 @@
                                     transform: translateX(-5%);
                                     width: 60%;
                                 }
-                .chatbox__button {
-                    right: 30px;
-                    bottom: 35px;
-                }
+                                .chatbox__button {
+                                    right: 30px;
+                                    bottom: 35px;
+                                }
 }
 
 @media screen and (min-width: 200px) and (max-width:601px) {
@@ -57,6 +57,10 @@
             left: 0;
             width: 100%;
         }
+.chatbox__button {
+right: 10px;
+bottom: 18px;
+}
 }
 
 .image_bg {
