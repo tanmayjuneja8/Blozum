@@ -15,20 +15,34 @@
 
 @media only screen and (min-width: 801px) {
     .chatbox {
-        width: 37%;
+        width: 70%;
     }
+                                        .container {
+                                            left: 50%;
+                                            transform: translateX(-5%);
+                                            width: 50%;
+                                        }
 }
 
 @media only screen and (min-width: 601px) and (max-width:800px) {
     .chatbox {
-        width: 51%;
+        width: 100%;
     }
+                                .container {
+                                    left: 50%;
+                                    transform: translateX(-5%);
+                                    width: 50%;
+                                }
 }
 
 @media screen and (min-width: 200px) and (max-width:601px) {
     .chatbox {
-        width: 91%;
+        width: 92%;
     }
+    .container {
+            transform: none;
+            left: 0;
+        }
 }
 
 .image_bg {
@@ -53,13 +67,11 @@
 .container {
     display: flex;
     z-index: 999;
-    align-items: center;
-    justify-content: center;
     position: fixed;
     bottom: 20px;
     left: 50%;
-    transform: translateX(-50%);
-    width: 92%;
+    transform: translateX(-5%);
+    width: 50%;
     margin: 0 auto;
     height: 100%;
 }
@@ -201,7 +213,11 @@
 }
 
 .chatbox__button {
-    text-align: right
+    text-align: right;
+    position: fixed;
+        right: 30px;
+        bottom: 30px;
+        z-index: 999;
 }
 
 .send__button {
@@ -336,7 +352,7 @@
     background: #fff;
     border-radius: 50px 0 50px 50px;
     box-shadow: 0 10px 15px rgba(0, 0, 0, .3);
-    cursor: pointer
+    cursor: pointer;
 }
 
 .chatbox_button button:hover {
