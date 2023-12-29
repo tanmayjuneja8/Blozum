@@ -216,7 +216,7 @@ bottom: 18px;
 .chatbox__support {
     display: flex;
     flex-direction: column;
-    z-index: -123456;
+    z-index: 0;
     opacity: 0;
     transition: .5s ease-in-out;
     background: #fff;
@@ -228,7 +228,7 @@ bottom: 18px;
 
 .chatbox--active {
     transform: translateY(-8px);
-    z-index: 123456;
+    z-index: 1234;
     opacity: 1
 }
 
@@ -270,7 +270,7 @@ bottom: 18px;
     position: sticky;
     bottom: 0;
     height: 10.5%;
-    z-index: -999
+    z-index: 999
 }
 
 .chatbox__header {
