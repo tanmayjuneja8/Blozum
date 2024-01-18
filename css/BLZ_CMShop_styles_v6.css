@@ -18,7 +18,7 @@
         width: 100%;
         height: 88%;
     }
-                                        .container {
+                                        .blozum_container {
                                             right: 0%;
                                             width: 33%;
                                             height: 82%;
@@ -37,7 +37,7 @@
         height: 90%;
     }
 
-    .container {
+    .blozum_container {
         right: 0%;
         transform: translateX(-5%);
         width: 50%;
@@ -56,7 +56,7 @@
         height: 90%;
     }
 
-    .container {
+    .blozum_container {
         right: 0%;
         transform: translateX(-5%);
         width: 50%;
@@ -75,7 +75,7 @@
         width: 92%;
         height: 89%;
     }
-    .container {
+    .blozum_container {
             transform: none;
             left: 0;
             width: 100%;
@@ -106,7 +106,7 @@ bottom: 10px;
     background-color: #000
 }
 
-.container {
+.blozum_container {
     display: flex;
     z-index: 999;
     position: fixed;
@@ -117,7 +117,7 @@ bottom: 10px;
     margin: 0 auto;
 }
 
-.container.visible {
+.blozum_container.visible {
     opacity: 1;
     visibility: visible;
 }
