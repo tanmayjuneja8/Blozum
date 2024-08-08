@@ -182,7 +182,7 @@
 
 .send__button_BLZ {
     border-radius: 50%;
-    background-color: transparent;
+    background-color: #fff;
     color: #ffc3a0;
     width: calc(3em + 2px);
     height: calc(3em + 2px);
@@ -424,142 +424,22 @@
     transition: margin 0.3s ease-out 0s,
         opacity 0.3s ease-out 0s;
     z-index: 2147483002;
+    zoom: 0 !important;
 }
 
 .blozum_brand_name {
     display: flex;
-    /* Use flexbox for easier centering */
     justify-content: center;
-    /* Center children horizontally */
     align-items: center;
-    /* Center children vertically */
     text-decoration: none;
     font-size: 12px;
     border-radius: 20px;
     padding: 8px 0px;
     transition: all 80ms ease 0s;
     width: 100%;
-    /* Maintains full width */
     color: rgb(119, 118, 120) !important;
-    /* Inherits color */
     position: relative;
 }
-
-/* 
-.blozum {
-    color: #ababab;
-    padding-right: 4px;
-    padding-bottom: 2px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    font-size: 11px;
-    line-height: 10px;
-    zoom: 1.5;
-}
-
-.blozum .link {
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    color: inherit;
-}
-
-.blozum .link div {
-    overflow: hidden;
-}
-
-.blozum .link div:first-child {
-    display: flex;
-    overflow: hidden;
-    text-shadow: 0 10px 0 var(--text);
-}
-
-.blozum .link div:last-child {
-    position: absolute;
-    pointer-events: none;
-    right: 0;
-    left: 0;
-    bottom: -3px;
-    height: 5px;
-}
-
-.blozum .link div:last-child svg {
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 300%;
-    height: 5px;
-    fill: none;
-    stroke: var(--line);
-    stroke-width: 1.5px;
-    stroke-linecap: round;
-    stroke-dasharray: 63.5px 128px;
-    stroke-dashoffset: var(--line-offset, 190.25px);
-    transform: translateX(var(--line-x)) translateZ(0);
-    transition: transform var(--line-d, 0s), stroke-dashoffset var(--line-d, 0s);
-}
-
-.blozum .link div span {
-    display: block;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    font-style: normal;
-    transition: transform var(--duration) ease;
-    transform: translateY(var(--m, 0));
-}
-
-.blozum .link div span:first-child {
-    transition-delay: 50ms;
-}
-
-.blozum .link div span:nth-child(2) {
-    transition-delay: 0.1s;
-}
-
-.blozum .link div span:nth-child(3) {
-    transition-delay: 0.15s;
-}
-
-.blozum .link div span:nth-child(4) {
-    transition-delay: 0.2s;
-}
-
-.blozum .link div span:nth-child(5) {
-    transition-delay: 0.25s;
-}
-
-.blozum .link div span:nth-child(6) {
-    transition-delay: 0.3s;
-}
-
-.blozum .link div span:nth-child(7) {
-    transition-delay: 0.35s;
-}
-
-.blozum .link div span:nth-child(8) {
-    transition-delay: 0.4s;
-}
-
-.blozum .link div span:nth-child(9) {
-    transition-delay: 0.45s;
-}
-
-.blozum .link div span:nth-child(10) {
-    transition-delay: 0.5s;
-}
-
-.blozum .link div span:nth-child(11) {
-    transition-delay: 0.55s;
-}
-
-.blozum .link:hover {
-    --m: calc(var(--font-size) * -1);
-    --line-d: var(--duration-line);
-    --line-x: 65.66%;
-    --line-offset: 63.5px;
-} */
 
 .rounded-svg {
     border-radius: 50%;
