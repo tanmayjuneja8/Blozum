@@ -182,22 +182,17 @@
 
 .send__button_BLZ {
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #fff !important;
     color: #ffc3a0;
     width: calc(3em + 2px);
     height: calc(3em + 2px);
     display: flex;
-    /* Flexbox for centering */
     justify-content: center;
-    /* Center horizontally */
     align-items: center;
-    /* Center vertically */
     border: none;
-    /* Remove the default border */
     text-align: center;
     transition: box-shadow 0.2s, -webkit-box-shadow 0.2s;
     white-space: nowrap;
-    /* touch-action: manipulation; */
     box-shadow: transparent 0 0 0 1px, rgba(18, 18, 18, 0.4) 0 1px 1.5px;
     cursor: pointer;
     flex: 1 1 auto;
