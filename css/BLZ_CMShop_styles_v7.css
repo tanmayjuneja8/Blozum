@@ -1,0 +1,1249 @@
+.blozum_chatbox,
+.blozum_chatbox * {
+    font-family: "Georama", Sans-serif;
+}
+
+.blozum_button-35,
+.blozum_button-35:hover {
+    color: #fff;
+}
+
+.blozum_button-35:hover,
+.blozum_chatbox_button button:hover {
+    box-shadow: #aaa 0 0 0 2px, transparent 0 0 0 0;
+}
+
+@media only screen and (min-width: 1024px) {
+    .blozum_chatbox {
+        width: 100%;
+        height: 515px;
+        right: 0px;
+    }
+
+    .blozum_container {
+        right: 0%;
+        width: 541px;
+        height: 597px;
+        bottom: 30px;
+        transform: translateX(-30px);
+    }
+
+    .blozum_chatbox__button {
+        right: 30px;
+        bottom: 30px;
+    }
+}
+
+@media screen and (max-height: 810px) and (min-width: 1024px) {
+    .blozum_chatbox {
+        width: 100%;
+        height: 515px;
+        right: 0px;
+    }
+
+    .blozum_container {
+        right: 0%;
+        width: 33%;
+        height: 597px;
+        bottom: 30px;
+        transform: translateX(-30px);
+    }
+
+    .blozum_chatbox__button {
+        right: 30px;
+        bottom: 30px;
+    }
+}
+
+@media only screen and (min-width: 901px) and (max-width: 1023px) {
+    .blozum_chatbox {
+        width: 100%;
+        height: 515px;
+    }
+
+    .blozum_container {
+        right: 0%;
+        width: 541px;
+        height: 597px;
+        bottom: 20px;
+        transform: translateX(-5%);
+    }
+
+    .blozum_chatbox__button {
+        right: 30px;
+        bottom: 30px;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+    .blozum_chatbox {
+        width: 100%;
+        height: 515px;
+    }
+
+    .blozum_container {
+        right: 0;
+        transform: translateX(-5%);
+        width: 541px;
+        height: 597px;
+        bottom: 35px;
+    }
+
+    .blozum_chatbox__button {
+        right: 30px;
+        bottom: 30px;
+    }
+}
+
+@media screen and (max-width: 601px) {
+    .blozum_chatbox {
+        width: 96%;
+        /* width: 100%; */
+        height: 96%;
+        margin-right: 1%;
+        /* height: 89%; */
+        bottom: 10px;
+    }
+
+    .blozum_container {
+        transform: none;
+        /* left: 0; */
+        right: 0;
+        width: 100%;
+        height: 89%;
+        bottom: 85px;
+        /* height: 89%; */
+    }
+
+    .blozum_chatbox__button {
+        right: 15px;
+        bottom: 35px;
+    }
+}
+
+.blozum_image_bg {
+    width: 90%;
+}
+
+.blozum_button-35,
+.blozum_button-35:hover {
+    background-color: #fff;
+}
+
+.blozum_container {
+    display: flex;
+    z-index: 100000;
+    position: fixed;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s, visibility 0.5s;
+
+    margin: 0 auto;
+}
+
+.blozum_container.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.blozum_button-35 {
+    display: inline-flex;
+    line-height: 1;
+    padding: 15px;
+    text-align: center;
+    transition: box-shadow 0.2s, -webkit-box-shadow 0.2s;
+    white-space: nowrap;
+    touch-action: manipulation;
+}
+
+*,
+.blozum_button-3,
+.blozum_button-35 {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.blozum_button-35 {
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: transparent 0 0 0 6px, rgba(18, 18, 18, 0.4) 0 6px 20px;
+    cursor: pointer;
+    flex: 1 1 auto;
+    font-family: "Georama", Sans-serif;
+    font-size: 1rem;
+    font-weight: 450;
+    justify-content: center;
+    outline: 0;
+    text-decoration: none;
+    border: 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.send__button_BLZ {
+    border-radius: 50%;
+    background-color: transparent;
+    color: #ffc3a0;
+    width: calc(3em + 2px);
+    height: calc(3em + 2px);
+    display: flex;
+    /* Flexbox for centering */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    border: none;
+    /* Remove the default border */
+    text-align: center;
+    transition: box-shadow 0.2s, -webkit-box-shadow 0.2s;
+    white-space: nowrap;
+    /* touch-action: manipulation; */
+    box-shadow: transparent 0 0 0 1px, rgba(18, 18, 18, 0.4) 0 1px 1.5px;
+    cursor: pointer;
+    flex: 1 1 auto;
+    margin: 0 0 0 8px;
+}
+
+.send__button_BLZ:hover {
+    box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, 0.4) 0 3px 9px;
+}
+
+.send__button_BLZ:active {
+    box-shadow: #ccc 0 0 0 2px, transparent 0 0 0 0;
+}
+
+
+.blozum_button-3 {
+    align-items: center;
+    border-radius: 15px;
+    background: -webkit-linear-gradient(left, #f58698, #ffc3a0);
+    background: linear-gradient(left, #f58698, #ffc3a0);
+    box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+    width: 100%;
+    color: #000;
+    flex: 1 1 auto;
+    justify-content: center;
+    box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, .2) 0 3px 5px;
+    padding: 15px;
+    text-align: center;
+    transition: box-shadow .2s, -webkit-box-shadow .2s;
+    cursor: pointer;
+    font-weight: 700;
+    white-space: nowrap;
+    touch-action: manipulation;
+    border: 0;
+    user-select: none;
+    -webkit-user-select: none;
+    margin: 0 3px;
+}
+
+.blozum_button-3:hover {
+    box-shadow: transparent 0 0 0 3px, rgba(36, 36, 36, .4) 0 3px 5px;
+}
+
+.property-value {
+    margin-top: 5px;
+    font-weight: 700;
+}
+
+
+.blozum_chatbox {
+    position: absolute;
+}
+
+.blozum_chatbox__support {
+    display: flex;
+    flex-direction: column;
+    z-index: 0;
+    opacity: 0;
+    transition: 0.5s ease-in-out;
+    background: #fff;
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.16) 0px 5px 40px;
+    border-radius: 20px;
+}
+
+.blozum_chatbox--active {
+    transform: translateY(-8px);
+    z-index: 1234;
+    opacity: 1;
+}
+
+.blozum_chatbox__button {
+    text-align: right;
+    position: fixed;
+    z-index: 99999999999;
+}
+
+/* .send__button {
+    padding: 6px;
+    border: none
+} */
+
+
+.blozum_chatbox__messages {
+    margin-top: auto;
+    display: flex;
+    overflow-y: scroll;
+    flex-direction: column-reverse;
+}
+
+
+
+.blozum_chatbox__header {
+    background: linear-gradient(268.91deg,
+            #f58698 -2.14%,
+            #ffc3a0 99.69%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 20px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    height: 20%;
+    color: white;
+}
+
+
+
+.blozum_messages__item {
+    margin-top: 10px;
+    padding: 10px 12px;
+    width: fit-content;
+    color: #000;
+    font-size: 14px;
+    max-width: 70%;
+    line-height: 21px;
+}
+
+.blozum_messages__item--operator {
+    box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, 0.2) 0 3px 5px;
+    margin-left: auto;
+    background: -webkit-linear-gradient(left, #f58698, #ffc3a0);
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    font-size: 15px;
+    color: #000;
+}
+
+.blozum_messages__item--typing {
+    box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, 0.2) 0 3px 5px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 0px;
+    padding: 15px;
+    background: #eee;
+}
+
+.blozum_messages__item--visitor {
+    box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, 0.2) 0 3px 5px;
+    margin-right: auto;
+    max-width: 70%;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 0px;
+    background: #eee;
+}
+
+.blozum_chatbox__image--header {
+    margin-right: 10px;
+    z-index: -999;
+}
+
+.blozum_chatbox__heading--header {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #000;
+}
+
+.blozum_chatbox__description--header {
+    font-size: 0.9rem;
+    color: #000;
+}
+
+.blozum_chatbox__messages {
+    padding: 0 15px 8px;
+}
+
+
+
+.blozum_chatbox__footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 8px;
+    background: 0 0;
+    box-shadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 20px;
+    position: sticky;
+    bottom: 0;
+    height: 10.5%;
+    z-index: 999;
+}
+
+.blozum_chatbox__footer .blz_input {
+    width: 90%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px;
+    font-size: 14px;
+    text-align: left;
+    color: #000;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.blozum_chatbox__send--footer {
+    color: #fff;
+}
+
+.blozum_chatbox__button button {
+    padding: 0px;
+    background: #fff;
+    border-radius: 72px 0 72px 72px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    outline: none;
+}
+
+.blozum_chatbox_button button:hover {
+    background-color: #ffc3a0;
+    color: #fff;
+}
+
+.blozum {
+    background: rgb(245, 245, 245);
+    border-radius: 8px;
+    display: block;
+    unicode-bidi: isolate;
+    pointer-events: all;
+    transition: margin 0.3s ease-out 0s,
+        opacity 0.3s ease-out 0s;
+    z-index: 2147483002;
+}
+
+.blozum_brand_name {
+    display: flex;
+    /* Use flexbox for easier centering */
+    justify-content: center;
+    /* Center children horizontally */
+    align-items: center;
+    /* Center children vertically */
+    text-decoration: none;
+    font-size: 12px;
+    border-radius: 20px;
+    padding: 8px 0px;
+    transition: all 80ms ease 0s;
+    width: 100%;
+    /* Maintains full width */
+    color: rgb(119, 118, 120) !important;
+    /* Inherits color */
+    position: relative;
+}
+
+/* 
+.blozum {
+    color: #ababab;
+    padding-right: 4px;
+    padding-bottom: 2px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 11px;
+    line-height: 10px;
+    zoom: 1.5;
+}
+
+.blozum .link {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+}
+
+.blozum .link div {
+    overflow: hidden;
+}
+
+.blozum .link div:first-child {
+    display: flex;
+    overflow: hidden;
+    text-shadow: 0 10px 0 var(--text);
+}
+
+.blozum .link div:last-child {
+    position: absolute;
+    pointer-events: none;
+    right: 0;
+    left: 0;
+    bottom: -3px;
+    height: 5px;
+}
+
+.blozum .link div:last-child svg {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300%;
+    height: 5px;
+    fill: none;
+    stroke: var(--line);
+    stroke-width: 1.5px;
+    stroke-linecap: round;
+    stroke-dasharray: 63.5px 128px;
+    stroke-dashoffset: var(--line-offset, 190.25px);
+    transform: translateX(var(--line-x)) translateZ(0);
+    transition: transform var(--line-d, 0s), stroke-dashoffset var(--line-d, 0s);
+}
+
+.blozum .link div span {
+    display: block;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    font-style: normal;
+    transition: transform var(--duration) ease;
+    transform: translateY(var(--m, 0));
+}
+
+.blozum .link div span:first-child {
+    transition-delay: 50ms;
+}
+
+.blozum .link div span:nth-child(2) {
+    transition-delay: 0.1s;
+}
+
+.blozum .link div span:nth-child(3) {
+    transition-delay: 0.15s;
+}
+
+.blozum .link div span:nth-child(4) {
+    transition-delay: 0.2s;
+}
+
+.blozum .link div span:nth-child(5) {
+    transition-delay: 0.25s;
+}
+
+.blozum .link div span:nth-child(6) {
+    transition-delay: 0.3s;
+}
+
+.blozum .link div span:nth-child(7) {
+    transition-delay: 0.35s;
+}
+
+.blozum .link div span:nth-child(8) {
+    transition-delay: 0.4s;
+}
+
+.blozum .link div span:nth-child(9) {
+    transition-delay: 0.45s;
+}
+
+.blozum .link div span:nth-child(10) {
+    transition-delay: 0.5s;
+}
+
+.blozum .link div span:nth-child(11) {
+    transition-delay: 0.55s;
+}
+
+.blozum .link:hover {
+    --m: calc(var(--font-size) * -1);
+    --line-d: var(--duration-line);
+    --line-x: 65.66%;
+    --line-offset: 63.5px;
+} */
+
+.rounded-svg {
+    border-radius: 50%;
+}
+
+.blz_s {
+    width: 10px;
+    height: 10px;
+    background-color: #f58698;
+    opacity: 0.8;
+    display: inline-block;
+    margin: 1px;
+    border-radius: 50%;
+
+    &:nth-child(1) {
+        animation: bounce 1s infinite;
+    }
+
+    &:nth-child(2) {
+        animation: bounce 1s infinite .2s;
+    }
+
+    &:nth-child(3) {
+        animation: bounce 1s infinite .4s;
+    }
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        opacity: 0.4;
+        transform: translateY(8px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+.blozum_chatbox__content--header {
+    margin-left: 10px;
+}
+
+.home_button_BLZ {
+    border-radius: 50%;
+    background-color: #ffc3a0;
+    color: #fff;
+    width: calc(3em + 2px);
+    height: calc(3em + 2px);
+    display: flex;
+    /* Flexbox for centering */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    border: none;
+    /* Remove the default border */
+    text-align: center;
+    transition: box-shadow 0.2s, -webkit-box-shadow 0.2s;
+    white-space: nowrap;
+    touch-action: manipulation;
+    box-shadow: transparent 0 0 0 5px, rgba(18, 18, 18, 0.4) 0 5px 15px;
+    cursor: pointer;
+    flex: 1 1 auto;
+}
+
+.home_button_BLZ:hover {
+    box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, 0.4) 0 3px 9px;
+}
+
+.home_button_BLZ:active {
+    box-shadow: #ccc 0 0 0 3px, transparent 0 0 0 0;
+}
+
+.visitor_menu_BLZ {
+    position: relative;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 16px;
+    background: #fff;
+    color: #000;
+    padding: 10px;
+    width: 90%;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fafafa;
+    z-index: 1000;
+}
+
+.after_submission_BLZ {
+    position: relative;
+    margin: 10px;
+    margin-right: auto;
+    margin-left: 0;
+    font-weight: bold;
+    font-size: 16px;
+    background: #fff;
+    color: #000;
+    max-width: 100%;
+    border-radius: 10px;
+    z-index: 1000;
+}
+
+.flex-blozum_container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.blz_input {
+    width: 100%;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+    text-align: left;
+    color: #000;
+    margin: 0 0 6px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.blozum_message-reaction {
+    display: flex;
+    /* Ensures flexbox layout */
+    justify-content: center;
+    /* Center the buttons (optional based on design) */
+    gap: 11px;
+    /* Sets the gap between the two buttons */
+    width: 79px;
+    /* Width as per Figma */
+    height: 26px;
+    /* Height as per Figma */
+}
+
+.blozum_thumb-up,
+.blozum_thumb-down {
+    cursor: pointer;
+    outline: none;
+    border-color: #000;
+    gap: 10px;
+    border-radius: 50%;
+    width: 27px;
+    font-size: 16px;
+    height: 27px;
+    border-width: 0.5px;
+    opacity: 0px;
+    font-size: 12px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blozum_thumb-down:focus,
+.blozum_thumb-up:focus {
+    background-color: transparent;
+    outline: none;
+}
+
+.blozum_thumb-down:hover,
+.blozum_thumb-up:hover {
+    background-color: #f58698;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: scale(1.1);
+    outline: none;
+}
+
+/* Highlight the active (enabled) button */
+.blz_active,
+.blz_active:focus {
+    background-color: #f58698;
+    /* Blue background for active state */
+    color: white;
+    border-color: #f58698;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+
+.blz_active:active {
+    background-color: #f58698;
+    /* Blue background for active state */
+    color: white;
+    border-color: #f58698;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transform: scale(0.9);
+}
+
+/* Transform the size of the thumbs up and down button to 0.9 when clicked */
+.blozum_thumb-up:active,
+.blozum_thumb-down:active {
+    transform: scale(0.9);
+}
+
+
+#blz_form_error {
+    background-color: #ffcccc;
+    width: 80%;
+    font-size: 12px;
+    color: #cc0000;
+    border-radius: 8px;
+    /* Curved edges */
+    padding: 10px;
+    /* Some padding inside the box */
+    font-weight: 300;
+    /* Thinner font */
+    margin: 5px auto;
+    /* Space below the box */
+    display: none;
+    /* Hide by default */
+    text-align: center;
+    justify-content: center;
+    /* Center the text */
+}
+
+.blz_form_success {
+    background-color: #c8e6c9;
+    color: #2d862d;
+    border-radius: 8px;
+    /* Curved edges */
+    padding: 10px;
+    /* Some padding inside the box */
+    font-weight: 300;
+    /* Thinner font */
+    margin-bottom: 10px;
+    /* Space below the box */
+    display: block;
+    text-align: center;
+    /* Center the text */
+}
+
+/* Sid's css */
+
+.blozum_container {
+    transition: all 0.5s ease-in-out;
+}
+
+.action {
+    position: sticky;
+    top: 0;
+    height: 10%;
+    color: white;
+    /* background-color: #000; */
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0.5rem 0 0.5rem;
+    align-items: center;
+}
+
+.action-btn {
+    border: none;
+    touch-action: manipulation;
+    cursor: pointer;
+    color: #ffc3a0;
+    padding: 0.4rem 0.8rem;
+    border-radius: 15px;
+    outline: none;
+}
+
+.action-btn i {
+    width: auto;
+    min-width: 16px;
+    height: 16px;
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+
+/* #back i {
+  width: auto;
+  min-width: 12px;
+  height: 12px;
+  overflow-clip-margin: content-box;
+  overflow: hidden;
+} */
+
+.action-btn:hover {
+    background-color: #ffc3a0;
+    color: white;
+    transition: all 0.3s ease-in-out;
+    outline: none;
+}
+
+.action-btn:active {
+    transform: scale(0.9);
+}
+
+.blozum_button-35 {
+    transition: all 0.3s ease-in-out;
+    outline: none;
+}
+
+.blozum_button-35:hover {
+    transform: scale(1.1);
+    outline: none;
+}
+
+.blozum_button-35:active {
+    transform: scale(0.9);
+}
+
+.blozum_powered_text a {
+    all: unset;
+}
+
+.stoodi_links {
+    all: unset;
+    color: #ffc3a0;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.buynow {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    outline: none;
+}
+
+.buynow:hover,
+.blozum_hdcarousel_item:hover {
+    background-color: #ffc3a0;
+    color: "white";
+    outline: none;
+}
+
+.buynow:active {
+    background-color: #ffc3a0;
+    color: "white";
+    outline: none;
+}
+
+.blozum_button-3 {
+    transition: all 0.3s;
+}
+
+.blozum_button-3:hover {
+    transform: scale(1.03);
+}
+
+.blozum_button-3:active {
+    transform: scale(0.9);
+}
+
+.blozum_mobile_view_close_btn {
+    display: none;
+}
+
+.blz_icebreakers_container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    animation-name: blz_ice_animation;
+    animation-duration: 520ms;
+    animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+    animation-delay: 80ms;
+    animation-fill-mode: both;
+    justify-content: flex-end;
+}
+
+.blz_icebreaker {
+    background: #35699f;
+    padding: 10px;
+    color: #fff;
+    margin: 3px;
+    font-size: 12px;
+    line-height: 15px;
+    border-radius: 8px 8px 0 8px;
+    transition: all 0.3s;
+}
+
+.blz_icebreaker:hover {
+    cursor: pointer;
+    background: #ffc3a0;
+    color: #f2f2f2;
+}
+
+.blz_init_icebreaker {
+    border: 1px solid #ffc3a0;
+    color: #ffc3a0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    margin: 7px;
+    padding: 6px 10px 6px 10px;
+    gap: 10px;
+    border-radius: 8px 8px 0px 8px;
+    opacity: 0px;
+    transition: font-weight 0.1s ease, transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blz_init_icebreaker:hover {
+    background: linear-gradient(180deg, #ffc3a0 0%, #ffc3a0 100%);
+    cursor: pointer;
+    transform: scale(1.02);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+        0 4px 6px -2px rgba(0, 0, 0, 0.05),
+        0 20px 25px -5px rgba(0, 0, 0, 0.2),
+        0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+.blz_init_icebreaker:active {
+    transform: scale(0.9);
+}
+
+.blz_init_icebreaker .icebreaker_element {
+    background-color: transparent;
+}
+
+.blz_init_icebreaker:hover .icebreaker_element_icon {
+    cursor: pointer;
+    background: #f2f2f2;
+}
+
+@keyframes blz_ice_animation {
+    0% {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .blozum_chatbox__support {
+        position: fixed;
+        /* Make sure it's positioned relative to the viewport */
+        top: 0;
+        left: 0;
+        width: 100vw;
+        /* 100% of the viewport width */
+        height: 100vh;
+        /* 100% of the viewport height */
+        z-index: 9999;
+        /* Ensure it's on top of other content */
+        border-radius: 0;
+    }
+
+    .blozum_chatbox--active {
+        transform: translateY(0px);
+        z-index: 9999;
+        opacity: 1;
+    }
+
+    .blozum_container {
+        width: 100vw;
+        /* Adjust container as well to ensure it fills the screen */
+        height: 100vh;
+        /* Adjust container height to fill the screen */
+    }
+
+    .blozum_button-35 {
+        z-index: 0;
+    }
+
+
+    .blozum_mobile_view_close_btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 25px;
+        height: 25px;
+        font-size: 10px;
+    }
+
+    .blozum_chatbox__button {
+        z-index: 100;
+    }
+
+    .blozum_chatbox__footer {
+        border-radius: 20px;
+    }
+
+    .blozum {
+        justify-content: center;
+    }
+}
+
+.blz_ice_breaker {
+    background-color: #82caff;
+    color: #0000ff;
+    border-radius: 8px;
+    /* Curved edges */
+    padding: 10px;
+    /* Some padding inside the box */
+    font-weight: 300;
+    /* Thinner font */
+    margin-bottom: 10px;
+    /* Space below the box */
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    /* Center the text */
+}
+
+.blz_floating_ice_breaker {
+    position: fixed;
+    bottom: 80px;
+    /* Adjust based on your layout */
+    right: 100px;
+    /* Increased distance from the right edge */
+    background-color: #0e6fff;
+    color: #ffffff;
+    border-radius: 50px;
+    padding: 10px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s, transform 0.2s;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 4px;
+}
+
+.blz_floating_ice_breaker:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 600px) {
+    .blz_floating_ice_breaker {
+        right: 80px;
+        /* Adjusted for smaller screens */
+        bottom: 70px;
+    }
+}
+
+.flex-blozum_container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* General styles inherited and modifications for smaller, source-specific button */
+.source_button_small {
+    display: inline-flex;
+    /* Inline-flex to keep it in line with other elements */
+    align-items: center;
+    /* Vertical alignment */
+    justify-content: center;
+    /* Horizontal alignment */
+    padding: 1px;
+    font-size: 12px;
+    border-radius: 10px;
+    /* Smaller border-radius for aesthetics */
+    background: #f0f0f0;
+    /* Lighter background to differentiate from main buttons */
+    color: #333;
+    /* Darker text for contrast */
+    cursor: pointer;
+    /* Cursor as pointer to indicate clickable */
+    border: 1px solid #ccc;
+    /* Subtle border for better definition */
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.05);
+    /* Subtle shadow for depth */
+    transition: all 0.3s;
+    /* Smooth transition for hover effects */
+}
+
+.source_button_small:hover {
+    transform: scale(1.05);
+    /* Slightly enlarge on hover for feedback */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 3px;
+    color: #fff;
+    /* Enhanced shadow on hover for depth */
+}
+
+.source_button_small:active {
+    transform: scale(0.95);
+    /* Contract button on click for tactile feedback */
+}
+
+.blozum_hdcarousel_wrapper {
+    display: grid;
+    grid-template-rows: 1fr max-content;
+    grid-gap: 0.4em;
+    position: relative;
+    line-height: 1;
+}
+
+.blozum_hdcarousel {
+    position: relative;
+    overflow-x: clip;
+}
+
+.blozum_hdcarousel_item {
+    display: flex;
+    align-items: center;
+    left: 5px;
+    /* Centers text vertically */
+    /* Centers text horizontally */
+    position: relative;
+    width: 60%;
+    min-width: 120px;
+    /* Adjust based on your needs */
+    padding: 1rem;
+    border-radius: 12px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+    top: 0;
+    transition: all ease-in-out 800ms;
+    box-shadow: 0px 0px 6px #d5cbca, 0px 0px 6px #ffffff;
+    flex: 0 0 auto;
+    margin-right: 10px;
+    overflow: hidden;
+    /* Ensures text doesn't overflow */
+    white-space: nowrap;
+    /* Prevents text wrapping */
+    text-overflow: ellipsis;
+    /* Adds ellipsis if text overflows */
+}
+
+.blz_scrollable-container {
+    display: flex;
+    /* Aligns children (buttons) in a row */
+    overflow-x: auto;
+    /* Enables horizontal scrolling */
+    white-space: nowrap;
+    /* Ensures items stay in a single line */
+    scroll-behavior: smooth;
+    /* Smooth scrolling */
+}
+
+/* Optional: Add styling to remove scrollbar visibility but keep functionality */
+.blz_scrollable-container::-webkit-scrollbar {
+    display: none;
+    /* Hides scrollbar for WebKit browsers */
+}
+
+.blz_scrollable-container {
+    -ms-overflow-style: none;
+    /* Hides scrollbar for IE and Edge */
+    scrollbar-width: none;
+    /* Hides scrollbar for Firefox */
+}
+
+#blz_activeItem {
+    background-color: #fff;
+    top: -1rem;
+}
+
+.blozum_hdcarousel_item:hover,
+#blz_activeItem:hover {
+    background-color: #ffc3a0;
+    color: #fff;
+    outline: none;
+}
+
+.blozum_hdcarousel_nav {
+    width: max-content;
+    margin: 0 auto;
+    z-index: 999000;
+
+}
+
+.blozum_hdcarousel_nav_item {
+    display: inline-block;
+    padding: 0.4em;
+    box-shadow: 0px 0px 6px #d5cbca, 0px 0px 6px #ffffff;
+    background: rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+    margin: 0 0.2em;
+    border-radius: 8px;
+    /* transition: all ease-in-out 300ms; */
+    transition: background-color 0.3s, transform 0.1s;
+    z-index: 999;
+}
+
+.blozum_hdcarousel_nav_item:hover {
+    background-color: #fff;
+}
