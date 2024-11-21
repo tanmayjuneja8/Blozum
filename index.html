@@ -10,7 +10,22 @@
 <button class="track-order-cta" onclick="window.alert('dabadiya khudse')">Track Order</button>
 
 
-
+<script>
+	(function (tanmay, loves, blozumAI, chatbots) {
+								var blozum, ai;
+								blozum = "https://cdn.jsdelivr.net/gh/tanmayjuneja8/Blozum/js/BlozumAI_Chatbot_v2.js";
+								ai = tanmay.createElement('script');
+								ai.type = 'text/javascript';
+								ai.async = true;
+								ai.onload = function () {
+									if (typeof initializeChatbot === "function") {
+										initializeChatbot(loves, blozumAI, chatbots);
+									}
+								};
+								ai.src = blozum;
+								tanmay.head.appendChild(ai);
+							})(document, '01d40b8c-dba1-4aa8-bc59-5bb81b9ce945','ContraVault','1', 'v2', '%23003049', 'light');
+</script>
 										
 </body>
 
